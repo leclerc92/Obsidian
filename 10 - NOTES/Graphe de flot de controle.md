@@ -30,7 +30,7 @@ On peux alors dessiner le graphe correspondant à ce programme comme ceci :
 >  --> Des noeuds peuvent synthétiser plusieurs ligne (noeud 2 = ligne 1 et 2)
 
 
-on peut alors trouver les [[Chemins d'exécution]] ou traduire ce graphe en Expression régulière
+on peut alors trouver les [[Chemins d'exécution]] ou traduire ce graphe en [[Expression régulière]]
 
 >Expression régulière de ce graphe :
 > 	0.2.3(4(6+&).9.3)*.11.END

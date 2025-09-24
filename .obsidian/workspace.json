@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/Graphe de flot de controle.md",
+                "file": "10 - NOTES/Chemins d'exécution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Graphe de flot de controle"
+              "title": "Chemins d'exécution"
             }
           }
         ]
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - NOTES/Graphe de flot de controle.md",
+                "file": "10 - NOTES/Chemins d'exécution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Graphe de flot de controle"
+              "title": "Liens sortants de Chemins d'exécution"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/Graphe de flot de controle.md",
+                "file": "10 - NOTES/Chemins d'exécution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,12 +212,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9667757057270724,
+                  "scale": 0.708471574104541,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Graphe de flot de controle"
+              "title": "Graphique de Chemins d'exécution"
             }
           }
         ]
@@ -241,6 +241,8 @@
   },
   "active": "1c1d8a3e992c2265",
   "lastOpenFiles": [
+    "10 - NOTES/Expression régulière.md",
+    "10 - NOTES/Graphe de flot de controle.md",
     "00 - INBOX/Tests fonctionnels ou boite noire.md",
     "README.md",
     "10 - NOTES/Heuristiques.md",
@@ -265,8 +267,6 @@
     "10 - NOTES/tests structurels ou boite blanche.md",
     "TACHES A REALISER.md",
     "00 - INBOX/Développement par cofacteurs.md",
-    "10 - NOTES/Markdown.md",
-    "10 - NOTES/Graphe de flot de données.md",
     "98 - RESSOURCES/code.png",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/Pasted image 20250919111610.png",
