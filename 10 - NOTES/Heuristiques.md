@@ -6,9 +6,6 @@ tags:
 
 ---
 
-
-
-
 ## Définition
 
 Une **heuristique** est une méthode de résolution de problèmes, d'apprentissage ou de découverte qui emploie une approche pratique, non optimale mais suffisante pour atteindre un objectif immédiat. C'est un "raccourci mental" qui permet de prendre des décisions rapidement sans analyser exhaustivement toutes les possibilités.

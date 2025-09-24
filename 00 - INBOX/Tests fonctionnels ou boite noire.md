@@ -16,7 +16,6 @@ Les test fonctionnels permettent de tester la conformité du code par rapport à
 > [!info] limite des tests fonctionnels
 > Ils ne permettent pas de tester finement le code, mais juste une spécification particulière 
 
-
 #### Domaine d'entrée 
 
 Le domaine d'entrée d'un programme contient toutes ses données/valeurs possible d'entrées possible. 

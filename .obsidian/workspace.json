@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4012a18922deb1",
+        "id": "5d17180dea61e3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ada43ad1045f6ec9",
+            "id": "1c1d8a3e992c2265",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/Graphe de flot de controle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Graphe de flot de controle"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "callout",
+                "query": "tag:prog/test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +84,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1406a39225bf1c21",
@@ -129,11 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 - NOTES/Graphe de flot de controle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Graphe de flot de controle"
             }
           },
           {
@@ -173,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 - NOTES/Graphe de flot de controle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Graphe de flot de controle"
             }
           }
         ]
@@ -222,13 +239,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ada43ad1045f6ec9",
+  "active": "1c1d8a3e992c2265",
   "lastOpenFiles": [
+    "00 - INBOX/Tests fonctionnels ou boite noire.md",
+    "README.md",
+    "10 - NOTES/Heuristiques.md",
     "10 - NOTES/WeakMap.md",
     "10 - NOTES/Développement par Cofacteurs (Méthode de Laplace).md",
     "10 - NOTES/determinant d'une matrice.md",
     "00 - INBOX/matrice.md",
-    "00 - INBOX/Tests fonctionnels ou boite noire.md",
     "10 - NOTES/forme quadratique.md",
     "10 - NOTES/Matrice hessienne.md",
     "10 - NOTES/formule de Leibniz.md",
@@ -239,7 +258,6 @@
     "10 - NOTES/test combinatoire.md",
     "10 - NOTES/tests all pairs.md",
     "10 - NOTES/tests all single.md",
-    "10 - NOTES/Heuristiques.md",
     "10 - NOTES/HTML.md",
     "10 - NOTES/Astuces javascript.md",
     "01 - DOMAINES/SCIENCE.md",
@@ -249,7 +267,6 @@
     "00 - INBOX/Développement par cofacteurs.md",
     "10 - NOTES/Markdown.md",
     "10 - NOTES/Graphe de flot de données.md",
-    "00 - INBOX/!important.md",
     "98 - RESSOURCES/code.png",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/Pasted image 20250919111610.png",
