@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "c634fe1033564db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca4012a18922deb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada43ad1045f6ec9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "068e0d2c6e460b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b50b00257b90c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0385496cd3bbadf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "0c781d2094e09c28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "callout",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "9705af13ed899292",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1406a39225bf1c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c40b95192a8f99b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "6ce0d756c2999170",
+    "type": "split",
+    "children": [
+      {
+        "id": "e494c6e887602929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d95a14bb7eeda2f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "abdb78dfba4bb868",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "970ee94bd6b182bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "556707f70c9f1dd2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cb5c631202d5b35b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6d1d06c7913c03",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9667757057270724,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": true,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": true,
+      "graph:Ouvrir la vue graphique": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ada43ad1045f6ec9",
+  "lastOpenFiles": [
+    "10 - NOTES/WeakMap.md",
+    "10 - NOTES/Développement par Cofacteurs (Méthode de Laplace).md",
+    "10 - NOTES/determinant d'une matrice.md",
+    "00 - INBOX/matrice.md",
+    "00 - INBOX/Tests fonctionnels ou boite noire.md",
+    "10 - NOTES/forme quadratique.md",
+    "10 - NOTES/Matrice hessienne.md",
+    "10 - NOTES/formule de Leibniz.md",
+    "10 - NOTES/LATEX SUITE.md",
+    "10 - NOTES/analyse partitionnelle.md",
+    "10 - NOTES/Methode comportementale.md",
+    "10 - NOTES/Methode syntaxique.md",
+    "10 - NOTES/test combinatoire.md",
+    "10 - NOTES/tests all pairs.md",
+    "10 - NOTES/tests all single.md",
+    "10 - NOTES/Heuristiques.md",
+    "10 - NOTES/HTML.md",
+    "10 - NOTES/Astuces javascript.md",
+    "01 - DOMAINES/SCIENCE.md",
+    "10 - NOTES/Obsidian.md",
+    "10 - NOTES/tests structurels ou boite blanche.md",
+    "TACHES A REALISER.md",
+    "00 - INBOX/Développement par cofacteurs.md",
+    "10 - NOTES/Markdown.md",
+    "10 - NOTES/Graphe de flot de données.md",
+    "00 - INBOX/!important.md",
+    "98 - RESSOURCES/code.png",
+    "98 - RESSOURCES/graphe.png",
+    "98 - RESSOURCES/Pasted image 20250919111610.png",
+    "98 - RESSOURCES/Pasted image 20250918154411.png",
+    "98 - RESSOURCES/Pasted image 20250916231423.png",
+    "98 - RESSOURCES/Pasted image 20250916231341.png",
+    "98 - RESSOURCES/Pasted image 20250912144859.png",
+    "98 - RESSOURCES/Pasted image 20250917155152.png",
+    "98 - RESSOURCES/Ink/Drawing/2025.9.18 - 22.57pm.drawing",
+    "98 - RESSOURCES/Ink/Drawing",
+    "98 - RESSOURCES/Ink",
+    "Ink/Writing/2025.9.18 - 22.43pm.writing",
+    "Ink/Drawing/2025.9.18 - 22.41pm.drawing",
+    "Ink/Writing/2025.9.18 - 22.54pm.writing",
+    "Ink/Drawing/2025.9.18 - 22.51pm.drawing",
+    "Ink/Drawing/2025.9.18 - 22.45pm.drawing",
+    "Ink/Drawing/2025.9.18 - 22.47pm.drawing",
+    "Ink/Writing/2025.9.18 - 22.44pm.writing",
+    "inbox/Pasted image 20250918122057.png",
+    "inbox/Sans titre.canvas",
+    "Mich/98 - RESSOURCES/Pasted image 20250916204949.png"
+  ]
+}

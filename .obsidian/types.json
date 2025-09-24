@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "CONNEXIONS": "multitext",
+    "date": "date",
+    "MOC": "text",
+    "REFERENCES": "text"
+  }
+}
