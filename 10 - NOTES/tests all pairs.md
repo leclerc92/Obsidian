@@ -31,7 +31,8 @@ Tester les erreurs du à une combinaison de 2 paramètres afin de couvrir toute 
 
 >[!tip] avantage des test all single
 > 
-> On peut reduire ce nombre de test a 12
+> On multiplies les deux classes qui ont les cardinaux les plus grand:
+> 	**4 * 3 = 12 test** 
 
 | Test | OS      | Navigateur | Type fichier | Connexion sécurisée |
 | ---- | ------- | ---------- | ------------ | ------------------- |

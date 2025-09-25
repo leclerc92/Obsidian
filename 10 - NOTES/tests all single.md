@@ -29,7 +29,8 @@ Séléctionner les données d'entrée afin de tester au moins une fois chaque va
 >   --> ==3x3x4x2 = 72 test à réaliser==
 
 > [!tip] avantage des test all single
-> On peut reduire ce nombre de test a 3 seulement !!
+> le nombre de test correspondra au cardinal le plus grand : 
+> 	**ici 4 test (données téléchargées)**
 > 
 
 | OS     | NAVIGATEUR | DONNEES | SECURISTATION |

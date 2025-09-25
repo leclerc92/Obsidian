@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "163a555997e48733",
+        "id": "d4fb53872bf279c0",
         "type": "tabs",
         "children": [
           {
-            "id": "c0cce12c00497915",
+            "id": "87a063db55c2da95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convexité.md",
+                "file": "10 - NOTES/Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Convexité"
+              "title": "Git"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dérivée",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1406a39225bf1c21",
@@ -188,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Convexité.md",
+                "file": "10 - NOTES/Git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Convexité"
+              "title": "Graphique de Git"
             }
           }
         ]
@@ -238,18 +239,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0cce12c00497915",
+  "active": "87a063db55c2da95",
   "lastOpenFiles": [
+    "10 - NOTES/Methode syntaxique.md",
+    "10 - NOTES/analyse partitionnelle.md",
+    "10 - NOTES/tests all pairs.md",
+    "10 - NOTES/test combinatoire.md",
+    "10 - NOTES/tests all single.md",
+    "00 - INBOX/Tests fonctionnels ou boite noire.md",
+    "Convexité.md",
+    "!exemple.md",
+    "Ink/Writing",
+    "Ink",
     "Optimistion.md",
     "10 - NOTES/Dérivées.md",
-    "Convexité.md",
     "10 - NOTES/HTML.md",
-    "10 - NOTES/tests all single.md",
-    "10 - NOTES/tests all pairs.md",
     "10 - NOTES/Methode comportementale.md",
-    "10 - NOTES/analyse partitionnelle.md",
-    "00 - INBOX/Tests fonctionnels ou boite noire.md",
-    "10 - NOTES/test combinatoire.md",
     "tets.md",
     "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
     "99 - MODELS/03 - NOUVEAU MOC.md",
@@ -272,8 +277,6 @@
     "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "10 - NOTES/SSH.md",
     "10 - NOTES/Primitives.md",
-    "10 - NOTES/Obsidian.md",
-    "10 - NOTES/Methode syntaxique.md",
     "10 - NOTES",
     "01 - DOMAINES",
     "00 - INBOX",
@@ -282,8 +285,6 @@
     "98 - RESSOURCES/Ink/Drawing/2025.9.18 - 22.57pm.drawing",
     "98 - RESSOURCES/Ink/Drawing",
     "98 - RESSOURCES/Ink",
-    "Ink/Writing/2025.9.18 - 22.43pm.writing",
-    "Ink/Drawing/2025.9.18 - 22.41pm.drawing",
     "inbox/Pasted image 20250918122057.png",
     "inbox/Sans titre.canvas",
     "Mich/98 - RESSOURCES/Pasted image 20250916204949.png"

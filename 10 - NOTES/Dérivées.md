@@ -8,13 +8,8 @@ MOC: "[[MATHS]]"
 
 ---
 
-
-
-
-
-
----
-***Références :***
+*Définition :*
+- Pour une fonction, sa dérivée correspond à sa pente en un point donné x.
 
 ---
 ![[Pasted image 20250916231341.png]]
