@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:prog/test",
+                "query": "all pai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1406a39225bf1c21",
@@ -223,8 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a58e8cfbfe77aeb0",
+  "active": "0c781d2094e09c28",
   "lastOpenFiles": [
+    "Convexité.md",
+    "Optimistion.md",
     "tets.md",
     "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
     "99 - MODELS/03 - NOUVEAU MOC.md",
@@ -257,8 +260,6 @@
     "10 - NOTES/Matrice hessienne.md",
     "10 - NOTES/Markdown.md",
     "10 - NOTES/Lorenzo Polidori.md",
-    "10 - NOTES/Loi Normale.md",
-    "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES",
     "01 - DOMAINES",
     "00 - INBOX",
