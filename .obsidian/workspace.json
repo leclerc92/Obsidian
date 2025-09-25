@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d8b054b1f0382e",
+        "id": "163a555997e48733",
         "type": "tabs",
         "children": [
           {
-            "id": "a58e8cfbfe77aeb0",
+            "id": "c0cce12c00497915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/Methode comportementale.md",
-                "mode": "preview",
+                "file": "Convexité.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Methode comportementale"
+              "title": "Convexité"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "all pair",
+                "query": "dérivée",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1406a39225bf1c21",
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/Methode comportementale.md",
+                "file": "Convexité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Methode comportementale"
+              "title": "Graphique de Convexité"
             }
           }
         ]
@@ -239,15 +238,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a58e8cfbfe77aeb0",
+  "active": "c0cce12c00497915",
   "lastOpenFiles": [
+    "Optimistion.md",
+    "10 - NOTES/Dérivées.md",
+    "Convexité.md",
+    "10 - NOTES/HTML.md",
+    "10 - NOTES/tests all single.md",
+    "10 - NOTES/tests all pairs.md",
+    "10 - NOTES/Methode comportementale.md",
     "10 - NOTES/analyse partitionnelle.md",
     "00 - INBOX/Tests fonctionnels ou boite noire.md",
     "10 - NOTES/test combinatoire.md",
-    "10 - NOTES/tests all single.md",
-    "10 - NOTES/tests all pairs.md",
-    "Convexité.md",
-    "Optimistion.md",
     "tets.md",
     "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
     "99 - MODELS/03 - NOUVEAU MOC.md",
@@ -272,9 +274,6 @@
     "10 - NOTES/Primitives.md",
     "10 - NOTES/Obsidian.md",
     "10 - NOTES/Methode syntaxique.md",
-    "10 - NOTES/Methode comportementale.md",
-    "10 - NOTES/Matrice hessienne.md",
-    "10 - NOTES/Markdown.md",
     "10 - NOTES",
     "01 - DOMAINES",
     "00 - INBOX",
