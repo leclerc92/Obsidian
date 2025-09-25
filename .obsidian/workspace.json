@@ -11,10 +11,24 @@
             "id": "a58e8cfbfe77aeb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/Methode comportementale.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Methode comportementale"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "all pai",
+                "query": "all pair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 - NOTES/Methode comportementale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Methode comportementale"
             }
           }
         ]
@@ -224,8 +239,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c781d2094e09c28",
+  "active": "a58e8cfbfe77aeb0",
   "lastOpenFiles": [
+    "10 - NOTES/analyse partitionnelle.md",
+    "00 - INBOX/Tests fonctionnels ou boite noire.md",
+    "10 - NOTES/test combinatoire.md",
+    "10 - NOTES/tests all single.md",
+    "10 - NOTES/tests all pairs.md",
     "Convexité.md",
     "Optimistion.md",
     "tets.md",
@@ -241,14 +261,10 @@
     "98 - RESSOURCES/Pasted image 20250916231341.png",
     "98 - RESSOURCES",
     "10 - NOTES/tests structurels ou boite blanche.md",
-    "10 - NOTES/tests all single.md",
-    "10 - NOTES/tests all pairs.md",
-    "10 - NOTES/test combinatoire.md",
     "10 - NOTES/formule de Leibniz.md",
     "10 - NOTES/forme quadratique.md",
     "10 - NOTES/evosuite.md",
     "10 - NOTES/determinant d'une matrice.md",
-    "10 - NOTES/analyse partitionnelle.md",
     "10 - NOTES/WeakMap.md",
     "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
     "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
@@ -259,7 +275,6 @@
     "10 - NOTES/Methode comportementale.md",
     "10 - NOTES/Matrice hessienne.md",
     "10 - NOTES/Markdown.md",
-    "10 - NOTES/Lorenzo Polidori.md",
     "10 - NOTES",
     "01 - DOMAINES",
     "00 - INBOX",
