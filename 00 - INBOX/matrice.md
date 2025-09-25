@@ -21,7 +21,7 @@ $$A = \begin{pmatrix}
 **Valeurs importantes :**
 
 Les valeurs importantes liées aux matrices sont : 
-- [[determinant d'une matrice]]
+- [[determinant]]
 - [[vecteur propre]]
 - [[valeurs propres]]
 
