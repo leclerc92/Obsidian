@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c432f9976d1c58a0",
+        "id": "0ffdb128acd8c808",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed02d224935501d",
+            "id": "a2975c5ff2588371",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/LaTeX.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "LaTeX"
             }
           }
         ]
@@ -174,6 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 - NOTES/LaTeX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de LaTeX"
             }
           }
         ]
@@ -223,36 +238,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed02d224935501d",
+  "active": "b0385496cd3bbadf",
   "lastOpenFiles": [
-    "LaTeX.md",
+    "Convexité.md",
+    "00 - INBOX/Tests fonctionnels ou boite noire.md",
+    "10 - NOTES/Valeurs Propres et Vecteurs Propres.md",
+    "10 - NOTES/matrice.md",
+    "valeurs propres.md",
+    "10 - NOTES/polynôme caractéristique.md",
+    "Optimistion.md",
+    "10 - NOTES/Comatrice.md",
+    "10 - NOTES/LaTeX.md",
     "Sans titre.md",
     "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/R.md",
-    "Optimistion.md",
-    "10 - NOTES/Comatrice.md",
     "10 - NOTES/determinant.md",
     "commatrice.md",
     "comatrice.md",
     "10 - NOTES/Vecteur gradient.md",
     "10 - NOTES/Matrice définie positive.md",
-    "00 - INBOX/matrice.md",
-    "Convexité.md",
     "10 - NOTES/Git.md",
     "10 - NOTES/Methode syntaxique.md",
     "10 - NOTES/analyse partitionnelle.md",
     "10 - NOTES/tests all pairs.md",
     "10 - NOTES/test combinatoire.md",
     "10 - NOTES/tests all single.md",
-    "00 - INBOX/Tests fonctionnels ou boite noire.md",
     "!exemple.md",
     "Ink/Writing",
     "Ink",
     "10 - NOTES/Dérivées.md",
     "10 - NOTES/HTML.md",
-    "10 - NOTES/Methode comportementale.md",
-    "tets.md",
-    "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",

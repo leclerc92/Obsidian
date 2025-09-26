@@ -18,14 +18,6 @@ $$A = \begin{pmatrix}
 3,2,1,5
 \end{pmatrix}$$
 
-**Valeurs importantes :**
-
-Les valeurs importantes liées aux matrices sont : 
-- [[determinant]]
-- [[vecteur propre]]
-- [[valeurs propres]]
-
-
 **Transposée de matrice :**
 
 La transposée s'obtient en échangeant les lignes et les colonnes de la matrice : 
