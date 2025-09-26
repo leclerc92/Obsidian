@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "015faacbc712ec6f",
+        "id": "c432f9976d1c58a0",
         "type": "tabs",
         "children": [
           {
-            "id": "b62efc4ec6fb42ff",
+            "id": "4ed02d224935501d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LaTeX"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -188,7 +174,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LaTeX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de LaTeX"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -238,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b62efc4ec6fb42ff",
+  "active": "4ed02d224935501d",
   "lastOpenFiles": [
-    "Sans titre.md",
     "LaTeX.md",
+    "Sans titre.md",
     "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/R.md",
     "Optimistion.md",
