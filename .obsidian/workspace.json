@@ -11,10 +11,24 @@
             "id": "f89d4fb6613ec107",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/LATEX SUITE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "LATEX SUITE"
             }
           }
         ]
@@ -174,6 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 - NOTES/LATEX SUITE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de LATEX SUITE"
             }
           }
         ]
@@ -223,8 +238,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0385496cd3bbadf",
+  "active": "f89d4fb6613ec107",
   "lastOpenFiles": [
+    "10 - NOTES/R.md",
     "Optimistion.md",
     "10 - NOTES/Comatrice.md",
     "10 - NOTES/determinant.md",
@@ -260,7 +276,6 @@
     "98 - RESSOURCES/Pasted image 20250916231341.png",
     "98 - RESSOURCES",
     "10 - NOTES/tests structurels ou boite blanche.md",
-    "10 - NOTES/formule de Leibniz.md",
     "10 - NOTES",
     "01 - DOMAINES",
     "00 - INBOX",
