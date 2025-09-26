@@ -1,16 +1,12 @@
 ---
-MOC: "[[PRODUCTIVITE]]"
+MOC:
+tags:
 ---
 
 ---
 ***Références :***
 
 ---
-
-
-
-
-
 ## 🔢 Fractions & Racines
 
 |Tapez      |Résultat     |Description                     |
@@ -103,17 +99,4 @@ MOC: "[[PRODUCTIVITE]]"
 |`Shift + Tab`|Aller au placeholder précédent |
 |`Ctrl + M`   |Basculer mode math inline/block|
 
-## 💡 Astuces Pro
-
-- **Auto-expansion** : Tapez le raccourci puis **Espace** ou **Tab**
-- **Sélection + raccourci** : Sélectionnez du texte puis tapez `//` pour l’entourer d’une fraction
-- **Annulation** : `Ctrl + Z` annule l’auto-expansion
-- **Personnalisation** : Modifiez les raccourcis dans les paramètres du plugin
-
-## 🚀 Workflow Recommandé
-
-1. **Tapez rapidement** avec les raccourcis
-2. **Tab** pour naviguer entre les placeholders
-3. **Ctrl + Shift + I** pour prévisualiser le rendu
-4. **Combinez** les raccourcis : `sum` puis `i=` puis `1` etc.
 

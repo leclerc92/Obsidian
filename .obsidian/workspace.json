@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "371f7d915a66e81e",
+        "id": "015faacbc712ec6f",
         "type": "tabs",
         "children": [
           {
-            "id": "f89d4fb6613ec107",
+            "id": "b62efc4ec6fb42ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/LATEX SUITE.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LATEX SUITE"
+              "title": "LaTeX"
             }
           }
         ]
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/LATEX SUITE.md",
+                "file": "LaTeX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de LATEX SUITE"
+              "title": "Graphique de LaTeX"
             }
           }
         ]
@@ -238,8 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f89d4fb6613ec107",
+  "active": "b62efc4ec6fb42ff",
   "lastOpenFiles": [
+    "Sans titre.md",
+    "LaTeX.md",
+    "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/R.md",
     "Optimistion.md",
     "10 - NOTES/Comatrice.md",
@@ -265,8 +268,6 @@
     "10 - NOTES/Methode comportementale.md",
     "tets.md",
     "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
-    "99 - MODELS/03 - NOUVEAU MOC.md",
-    "99 - MODELS/01 - NOUVELLE NOTE MOC.md",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",
@@ -275,7 +276,6 @@
     "98 - RESSOURCES/Pasted image 20250916231423.png",
     "98 - RESSOURCES/Pasted image 20250916231341.png",
     "98 - RESSOURCES",
-    "10 - NOTES/tests structurels ou boite blanche.md",
     "10 - NOTES",
     "01 - DOMAINES",
     "00 - INBOX",
