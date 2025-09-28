@@ -196,6 +196,26 @@ docker-compose restart
 docker-compose restart <service_name>
 ```
 
+*exemple de fichier docker-compose.yml :*
+
+```yml
+version: '3.8'
+services:
+  rstudio:
+    image: rocker/tidyverse:latest
+    container_name: rstudio-dev
+    ports:
+      - "8787:8787"
+    environment:
+      - PASSWORD=rstudio123
+      - USERID=1000
+      - GROUPID=1000
+    volumes:
+      - ~/Documents/R-projects:/home/rstudio/projects
+      - ~/Documents/R-library:/usr/local/lib/R/site-library
+      - ~/Documents/R-data:/home/rstudio/data
+    restart: unless-stopped
+```
 ## 🧹 Nettoyage et Maintenance
 
 ```bash
@@ -292,3 +312,14 @@ docker-compose up --build -d
 docker exec -it mysql-db mysql -u root -p
 docker exec -it web-server /bin/bash
 ```
+
+
+```shell
+docker run -d \
+  --name rstudio-container \
+  -p 8787:8787 \
+  -e PASSWORD=rstudio123 \
+  -v ~/Documents/R-projects:/home/rstudio/projects \
+  rocker/tidyverse:latest
+  ```
+  

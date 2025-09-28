@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ffdb128acd8c808",
+        "id": "c6cd483a467c7bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "a2975c5ff2588371",
+            "id": "e4f343508c81e053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/LaTeX.md",
+                "file": "MCD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LaTeX"
+              "title": "MCD"
+            }
+          },
+          {
+            "id": "5f070c793c884726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MLD"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matrice positive",
+                "query": "tag:#user_id",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1406a39225bf1c21",
@@ -125,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour MCD"
             }
           },
           {
@@ -143,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - NOTES/Chemins d'exécution.md",
+                "file": "MLD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Chemins d'exécution"
+              "title": "Liens sortants de MLD"
             }
           },
           {
@@ -188,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/LaTeX.md",
+                "file": "MLD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de LaTeX"
+              "title": "Graphique de MLD"
             }
           }
         ]
@@ -238,36 +265,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0385496cd3bbadf",
+  "active": "556707f70c9f1dd2",
   "lastOpenFiles": [
-    "Convexité.md",
+    "MCD.md",
+    "MLD.md",
+    "Capture d’écran 2025-09-27 à 11.48.37.png",
+    "Pasted image 20250927113757.png",
+    "Pasted image 20250927113421.png",
+    "10 - NOTES/analyse partitionnelle.md",
     "00 - INBOX/Tests fonctionnels ou boite noire.md",
+    "Convexité.md",
+    "10 - NOTES/Docker.md",
+    "10 - NOTES/Matrice définie positive.md",
+    "valeurs propres.md",
+    "10 - NOTES/LATEX SUITE.md",
+    "10 - NOTES/LaTeX.md",
     "10 - NOTES/Valeurs Propres et Vecteurs Propres.md",
     "10 - NOTES/matrice.md",
-    "valeurs propres.md",
     "10 - NOTES/polynôme caractéristique.md",
     "Optimistion.md",
     "10 - NOTES/Comatrice.md",
-    "10 - NOTES/LaTeX.md",
-    "Sans titre.md",
-    "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/R.md",
     "10 - NOTES/determinant.md",
     "commatrice.md",
     "comatrice.md",
     "10 - NOTES/Vecteur gradient.md",
-    "10 - NOTES/Matrice définie positive.md",
     "10 - NOTES/Git.md",
     "10 - NOTES/Methode syntaxique.md",
-    "10 - NOTES/analyse partitionnelle.md",
     "10 - NOTES/tests all pairs.md",
     "10 - NOTES/test combinatoire.md",
     "10 - NOTES/tests all single.md",
     "!exemple.md",
     "Ink/Writing",
     "Ink",
-    "10 - NOTES/Dérivées.md",
-    "10 - NOTES/HTML.md",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",
@@ -280,12 +310,9 @@
     "01 - DOMAINES",
     "00 - INBOX",
     "98 - RESSOURCES/Pasted image 20250912144859.png",
-    "98 - RESSOURCES/Pasted image 20250917155152.png",
     "98 - RESSOURCES/Ink/Drawing/2025.9.18 - 22.57pm.drawing",
     "98 - RESSOURCES/Ink/Drawing",
     "98 - RESSOURCES/Ink",
-    "inbox/Pasted image 20250918122057.png",
-    "inbox/Sans titre.canvas",
-    "Mich/98 - RESSOURCES/Pasted image 20250916204949.png"
+    "inbox/Sans titre.canvas"
   ]
 }

@@ -36,7 +36,7 @@ x^T A x > 0
 
 ### 3. Valeurs propres
 
-- **Toutes les [[valeurs propres]] sont strictement positives**
+- **Toutes les [[Valeurs Propres et Vecteurs Propres|valeurs propres]] sont strictement positives**
 - C'est équivalent à la définition par la [[forme quadratique]]
 
 ## Critères de reconnaissance

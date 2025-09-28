@@ -7,6 +7,9 @@ tags:
 ***Références :***
 
 ---
+
+Latext suite est un module [[Obsidian]] pour avoir des raccoucis dans la syntaxe latex
+
 ## 🔢 Fractions & Racines
 
 |Tapez      |Résultat     |Description                     |
