@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c6cd483a467c7bb2",
+        "id": "b697957e5b871b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f343508c81e053",
+            "id": "0c23f28d9c2f8d91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MCD"
-            }
-          },
-          {
-            "id": "5f070c793c884726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MLD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MLD"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +70,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1406a39225bf1c21",
@@ -170,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLD.md",
+                "file": "10 - NOTES/Brooks Robertson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de MLD"
+              "title": "Liens sortants de Brooks Robertson"
             }
           },
           {
@@ -215,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MLD.md",
+                "file": "10 - NOTES/Brooks Robertson.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,12 +198,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.708471574104541,
+                  "scale": 0.713275462622449,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de MLD"
+              "title": "Graphique de Brooks Robertson"
             }
           }
         ]
@@ -265,16 +225,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "556707f70c9f1dd2",
+  "active": "b0385496cd3bbadf",
   "lastOpenFiles": [
-    "MCD.md",
-    "MLD.md",
-    "Capture d’écran 2025-09-27 à 11.48.37.png",
-    "Pasted image 20250927113757.png",
-    "Pasted image 20250927113421.png",
+    "10 - NOTES/Brooks Robertson.md",
+    "01 - DOMAINES/PROGRAMMATION.md",
+    "10 - NOTES/Tests fonctionnels ou boite noire.md",
+    "10 - NOTES/MCD.md",
+    "10 - NOTES/MLD.md",
+    "00 - INBOX/Convexité.md",
+    "98 - RESSOURCES/Ink/Writing/2025.9.28 - 9.45am.drawing",
+    "98 - RESSOURCES/Ink/Writing",
+    "98 - RESSOURCES/Ink",
+    "98 - RESSOURCES/98 - RESSOURCES/Ink/Writing/2025.9.28 - 9.43am.drawing",
+    "98 - RESSOURCES/98 - RESSOURCES/Ink/Writing",
+    "98 - RESSOURCES/98 - RESSOURCES/Ink",
+    "98 - RESSOURCES/98 - RESSOURCES",
+    "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37.png",
+    "98 - RESSOURCES/Pasted image 20250927113757.png",
+    "98 - RESSOURCES/Pasted image 20250927113421.png",
     "10 - NOTES/analyse partitionnelle.md",
-    "00 - INBOX/Tests fonctionnels ou boite noire.md",
-    "Convexité.md",
     "10 - NOTES/Docker.md",
     "10 - NOTES/Matrice définie positive.md",
     "valeurs propres.md",
@@ -294,8 +263,6 @@
     "10 - NOTES/Methode syntaxique.md",
     "10 - NOTES/tests all pairs.md",
     "10 - NOTES/test combinatoire.md",
-    "10 - NOTES/tests all single.md",
-    "!exemple.md",
     "Ink/Writing",
     "Ink",
     "99 - MODELS",
@@ -305,14 +272,7 @@
     "98 - RESSOURCES/Pasted image 20250918154411.png",
     "98 - RESSOURCES/Pasted image 20250916231423.png",
     "98 - RESSOURCES/Pasted image 20250916231341.png",
-    "98 - RESSOURCES",
-    "10 - NOTES",
-    "01 - DOMAINES",
-    "00 - INBOX",
     "98 - RESSOURCES/Pasted image 20250912144859.png",
-    "98 - RESSOURCES/Ink/Drawing/2025.9.18 - 22.57pm.drawing",
-    "98 - RESSOURCES/Ink/Drawing",
-    "98 - RESSOURCES/Ink",
     "inbox/Sans titre.canvas"
   ]
 }
