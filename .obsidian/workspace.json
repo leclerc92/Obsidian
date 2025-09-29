@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b697957e5b871b6d",
+        "id": "de2f717553e56e4f",
         "type": "tabs",
         "children": [
           {
-            "id": "0c23f28d9c2f8d91",
+            "id": "484f6d6aad3a9217",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/Brooks Robertson.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Brooks Robertson"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -222,11 +221,16 @@
       "bases:Create new base": true,
       "graph:Ouvrir la vue graphique": false,
       "obsidian-file-cleaner:Clean files": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "daily-random-note:Daily Random Note": false
     }
   },
   "active": "b0385496cd3bbadf",
   "lastOpenFiles": [
+    "10 - NOTES/Présent perfect.md",
+    "98 - RESSOURCES/Pasted image 20250929191623.png",
+    "10 - NOTES/R.md",
+    "01 - DOMAINES/LANGUES.md",
     "10 - NOTES/Brooks Robertson.md",
     "01 - DOMAINES/PROGRAMMATION.md",
     "10 - NOTES/Tests fonctionnels ou boite noire.md",
@@ -254,15 +258,11 @@
     "10 - NOTES/polynôme caractéristique.md",
     "Optimistion.md",
     "10 - NOTES/Comatrice.md",
-    "10 - NOTES/R.md",
     "10 - NOTES/determinant.md",
     "commatrice.md",
     "comatrice.md",
     "10 - NOTES/Vecteur gradient.md",
     "10 - NOTES/Git.md",
-    "10 - NOTES/Methode syntaxique.md",
-    "10 - NOTES/tests all pairs.md",
-    "10 - NOTES/test combinatoire.md",
     "Ink/Writing",
     "Ink",
     "99 - MODELS",
@@ -272,7 +272,6 @@
     "98 - RESSOURCES/Pasted image 20250918154411.png",
     "98 - RESSOURCES/Pasted image 20250916231423.png",
     "98 - RESSOURCES/Pasted image 20250916231341.png",
-    "98 - RESSOURCES/Pasted image 20250912144859.png",
     "inbox/Sans titre.canvas"
   ]
 }
