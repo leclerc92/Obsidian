@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a76381d0e7d55333",
+            "id": "499d750f342b8fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Convexité.md",
+                "file": "10 - NOTES/SSH.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Convexité"
+              "title": "SSH"
             }
           }
         ]
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Convexité.md",
+                "file": "10 - NOTES/SSH.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Convexité"
+              "title": "Graphique de SSH"
             }
           }
         ]
@@ -240,13 +240,13 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "a76381d0e7d55333",
+  "active": "499d750f342b8fbb",
   "lastOpenFiles": [
     "10 - NOTES/Vecteur gradient.md",
+    "00 - INBOX/Convexité.md",
     "10 - NOTES/Matrice hessienne.md",
     "00 - INBOX/VECTEUR.md",
     "00 - INBOX/Optimisation.md",
-    "00 - INBOX/Convexité.md",
     "10 - NOTES/determinant.md",
     "10 - NOTES/forme quadratique.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
