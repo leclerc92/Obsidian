@@ -1,9 +1,23 @@
 {
-  "randomInstances": [],
-  "nextRandomNotesDay": "30/8/2025",
+  "randomInstances": [
+    {
+      "name": "New Random Instance",
+      "includePaths": "10 - NOTES, ",
+      "excludePaths": "",
+      "openOnStartup": true,
+      "useTags": false,
+      "tags": "",
+      "allTagsRequired": true,
+      "isTabOpen": true,
+      "commandID": "open-random-note-from-New Random Instance"
+    }
+  ],
+  "nextRandomNotesDay": "2/9/2025",
   "timeToResetDailyRandomNotes": [
     0,
     0
   ],
-  "previousCommandIDs": []
+  "previousCommandIDs": [
+    "open-random-note-from-New Random Instance"
+  ]
 }

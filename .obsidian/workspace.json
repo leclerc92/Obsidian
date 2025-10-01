@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "de2f717553e56e4f",
+        "id": "78a4202e5c65f706",
         "type": "tabs",
         "children": [
           {
-            "id": "484f6d6aad3a9217",
+            "id": "1afcb938d40d2efd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "image",
+              "state": {
+                "file": "98 - RESSOURCES/Pasted image 20250927113757 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250927113757 1"
+            }
+          },
+          {
+            "id": "3bb6a86344a18dd6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "98 - RESSOURCES/Pasted image 20250927113421 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250927113421 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#user_id",
+                "query": "tag:#prog/bd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,6 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "98 - RESSOURCES/Pasted image 20250927113421 1.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Pasted image 20250927113421 1"
             }
           }
         ]
@@ -227,6 +243,16 @@
   },
   "active": "b0385496cd3bbadf",
   "lastOpenFiles": [
+    "98 - RESSOURCES/Pasted image 20250927113757 1.png",
+    "10 - NOTES/MCD 1.md",
+    "10 - NOTES/Loi Normale.md",
+    "98 - RESSOURCES/Ink 1/Writing",
+    "98 - RESSOURCES/Ink 1",
+    "10 - NOTES/Methode comportementale.md",
+    "10 - NOTES/EQUATION DE KAYA.md",
+    "2025-09-29.md",
+    "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
+    "98 - RESSOURCES/Pasted image 20250927113421 1.png",
     "10 - NOTES/Présent perfect.md",
     "98 - RESSOURCES/Pasted image 20250929191623.png",
     "10 - NOTES/R.md",
@@ -258,20 +284,10 @@
     "10 - NOTES/polynôme caractéristique.md",
     "Optimistion.md",
     "10 - NOTES/Comatrice.md",
-    "10 - NOTES/determinant.md",
-    "commatrice.md",
-    "comatrice.md",
-    "10 - NOTES/Vecteur gradient.md",
-    "10 - NOTES/Git.md",
-    "Ink/Writing",
-    "Ink",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",
     "98 - RESSOURCES/Pasted image 20250919111610.png",
-    "98 - RESSOURCES/Pasted image 20250918154411.png",
-    "98 - RESSOURCES/Pasted image 20250916231423.png",
-    "98 - RESSOURCES/Pasted image 20250916231341.png",
     "inbox/Sans titre.canvas"
   ]
 }

@@ -27,7 +27,7 @@ Autrement dit :
 
 Cette équation montre qu'il n'y a que 4 leviers pour réduire les émissions :
 
-1. Réduire la population (peu réaliste)
-2. Réduire le niveau de vie (politiquement difficile)
+1. **Réduire la population** (peu réaliste)
+2. R**éduire le niveau de vie** (politiquement difficile)
 3. **Améliorer l'efficacité énergétique** (utiliser moins d'énergie pour la même richesse)
 4. **Décarboner l'énergie** (remplacer pétrole/charbon par renouvelables/nucléaire)

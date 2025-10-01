@@ -1,12 +1,13 @@
 ---
 MOC: "[[PROGRAMMATION]]"
 tags:
-  - prog/bd
 ---
 ---
 ***Références :***
 
 ---
+
+
 ## Définition
 
 Le **MCD** est le *modèle conceptuel de données*.
@@ -36,7 +37,3 @@ il peut etre appelé parfois **modèle-entité-association**
 ![[Pasted image 20250927113757 1.png]]
 
 ![[Capture d’écran 2025-09-27 à 11.48.37 1.png]]
-
-> [!tip]
-> On n'evitera de creer des relations 1,1 - 1,1, car cela pourrait etre regroupé dans la même table. On appel cela une **relation fantome**
-
