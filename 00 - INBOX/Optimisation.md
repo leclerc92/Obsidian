@@ -3,7 +3,7 @@ MOC: "[[MATHS]]"
 tags:
 ---
 
-Les problèmes d'optimisation consistent à chercher le minimum ou le maximum d'une fonction.
+Les problèmes d'optimisation consistent à chercher le minimum ou le maximum d'une fonction (recherche d'optimum)
 
 ## **Conditions nécessaires d'optimalité**
 
@@ -44,5 +44,6 @@ Si les conditions suivantes sont vérifiées, alors x* est **suffisamment** un *
 | $\nabla f(x^*) = 0$ | $\nabla^2 f(x^*) \prec 0$ | **Maximum local strict** ✓ |
 | $\nabla f(x^*) = 0$ | $\nabla^2 f(x^*) \succeq 0$ | **Peut-être** un minimum (test non concluant) |
 | $\nabla f(x^*) = 0$ | Hessienne indéfinie | **Point-selle** |
+
 
 

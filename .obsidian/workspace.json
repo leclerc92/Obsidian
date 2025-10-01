@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Optimisation.md",
+                "file": "00 - INBOX/Convexité.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Optimisation"
+              "title": "Convexité"
             }
           }
         ]
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Optimisation.md",
+                "file": "00 - INBOX/Convexité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,12 +212,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622449,
+                  "scale": 0.9602645007922297,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Optimisation"
+              "title": "Graphique de Convexité"
             }
           }
         ]
@@ -242,11 +242,12 @@
   },
   "active": "a76381d0e7d55333",
   "lastOpenFiles": [
+    "10 - NOTES/Vecteur gradient.md",
     "10 - NOTES/Matrice hessienne.md",
+    "00 - INBOX/VECTEUR.md",
     "00 - INBOX/Optimisation.md",
     "00 - INBOX/Convexité.md",
     "10 - NOTES/determinant.md",
-    "10 - NOTES/Vecteur gradient.md",
     "10 - NOTES/forme quadratique.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "10 - NOTES/matrice.md",
@@ -284,7 +285,6 @@
     "98 - RESSOURCES/Pasted image 20250927113421.png",
     "10 - NOTES/analyse partitionnelle.md",
     "10 - NOTES/Docker.md",
-    "10 - NOTES/Matrice définie positive.md",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",
