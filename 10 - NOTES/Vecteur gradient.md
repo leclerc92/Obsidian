@@ -10,7 +10,7 @@ tags:
 ---
 ## Définition
 
-Le **gradient** d'une fonction scalaire f : ℝⁿ → ℝ est un **vecteur** qui contient toutes les [[Dérivées]] partielles de f.
+Le **gradient** d'une fonction scalaire f : ℝⁿ → ℝ est un **vecteur** qui contient toutes les [[Dérivée]] partielles de f.
 
 ### Notation mathématique
 

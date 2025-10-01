@@ -69,18 +69,19 @@ Latext suite est un module [[Obsidian]] pour avoir des raccoucis dans la syntaxe
 
 ## ⚡ Symboles Rapides
 
-|Tapez|Résultat |Description      |
-|-----|---------|-----------------|
-|`<=` |`\leq`   |Inférieur ou égal|
-|`>=` |`\geq`   |Supérieur ou égal|
-|`!=` |`\neq`   |Différent de     |
-|`~~` |`\approx`|Approximativement|
-|`+-` |`\pm`    |Plus ou moins    |
-|`oo` |`\infty` |Infini           |
-|`AA` |`\forall`|Pour tout        |
-|`EE` |`\exists`|Il existe        |
-|`inn`|`\in`    |Appartient à     |
-|`cc` |`\subset`|Inclus dans      |
+| Tapez | Résultat        | Description       |
+| ----- | --------------- | ----------------- |
+| `<=`  | `\leq`          | Inférieur ou égal |
+| `>=`  | `\geq`          | Supérieur ou égal |
+| `!=`  | `\neq`          | Différent de      |
+| `~~`  | `\approx`       | Approximativement |
+| `+-`  | `\pm`           | Plus ou moins     |
+| `oo`  | `\infty`        | Infini            |
+| `AA`  | `\forall`       | Pour tout         |
+| `EE`  | `\exists`       | Il existe         |
+| `inn` | `\in`           | Appartient à      |
+| `cc`  | `\subset`       | Inclus dans       |
+|       | `\triangledown` | triangle inversé  |
 
 ## ⭐ Fonctions & Environnements
 

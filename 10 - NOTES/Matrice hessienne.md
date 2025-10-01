@@ -9,7 +9,7 @@ tags:
 
 ---
 *Définition :* 
-La [[matrice]] hessienne d'une fonction f est la matrice carrée de ses [[Dérivées]] partielles secondes.
+La [[matrice]] hessienne d'une fonction f est la matrice carrée de ses [[Dérivée]] partielles secondes.
 
 on appelle forme hessienne, la [[forme quadratique]] associé à la matrice hessienne
 

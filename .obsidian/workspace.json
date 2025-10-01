@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "78a4202e5c65f706",
+        "id": "e3d16a49fb985813",
         "type": "tabs",
         "children": [
           {
-            "id": "1afcb938d40d2efd",
+            "id": "60f089ec5a846e2e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "98 - RESSOURCES/Pasted image 20250927113757 1.png"
+                "file": "00 - INBOX/Optimisation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250927113757 1"
-            }
-          },
-          {
-            "id": "3bb6a86344a18dd6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "98 - RESSOURCES/Pasted image 20250927113421 1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250927113421 1"
+              "icon": "lucide-file",
+              "title": "Optimisation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -190,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "98 - RESSOURCES/Pasted image 20250927113421 1.png",
+                "file": "00 - INBOX/Optimisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Pasted image 20250927113421 1"
+              "title": "Graphique de Optimisation"
             }
           }
         ]
@@ -241,8 +240,17 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "b0385496cd3bbadf",
+  "active": "60f089ec5a846e2e",
   "lastOpenFiles": [
+    "10 - NOTES/Dérivée.md",
+    "00 - INBOX/dérib.md",
+    "00 - INBOX/Optimisation.md",
+    "10 - NOTES/LATEX SUITE.md",
+    "10 - NOTES/Vecteur gradient.md",
+    "00 - INBOX/Convexité.md",
+    "10 - NOTES/Présent perfect.md",
+    "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
+    "98 - RESSOURCES/Pasted image 20250927113421 1.png",
     "98 - RESSOURCES/Pasted image 20250927113757 1.png",
     "10 - NOTES/MCD 1.md",
     "10 - NOTES/Loi Normale.md",
@@ -251,9 +259,6 @@
     "10 - NOTES/Methode comportementale.md",
     "10 - NOTES/EQUATION DE KAYA.md",
     "2025-09-29.md",
-    "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
-    "98 - RESSOURCES/Pasted image 20250927113421 1.png",
-    "10 - NOTES/Présent perfect.md",
     "98 - RESSOURCES/Pasted image 20250929191623.png",
     "10 - NOTES/R.md",
     "01 - DOMAINES/LANGUES.md",
@@ -262,7 +267,6 @@
     "10 - NOTES/Tests fonctionnels ou boite noire.md",
     "10 - NOTES/MCD.md",
     "10 - NOTES/MLD.md",
-    "00 - INBOX/Convexité.md",
     "98 - RESSOURCES/Ink/Writing/2025.9.28 - 9.45am.drawing",
     "98 - RESSOURCES/Ink/Writing",
     "98 - RESSOURCES/Ink",
@@ -277,13 +281,9 @@
     "10 - NOTES/Docker.md",
     "10 - NOTES/Matrice définie positive.md",
     "valeurs propres.md",
-    "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/LaTeX.md",
     "10 - NOTES/Valeurs Propres et Vecteurs Propres.md",
     "10 - NOTES/matrice.md",
-    "10 - NOTES/polynôme caractéristique.md",
-    "Optimistion.md",
-    "10 - NOTES/Comatrice.md",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",
