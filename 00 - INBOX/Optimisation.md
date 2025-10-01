@@ -2,39 +2,47 @@
 MOC: "[[MATHS]]"
 tags:
 ---
+
+Les problèmes d'optimisation consistent à chercher le minimum ou le maximum d'une fonction.
+
+## **Conditions nécessaires d'optimalité**
+
+### Minimum local
+Si x* est un **minimum local** de f, alors **nécessairement** :
+
+1. **Condition du premier ordre** : $\nabla f(x^*) = 0$ ([[Vecteur gradient]])
+2. **Condition du second ordre** : $\nabla^2 f(x^*) \succeq 0$ ([[Matrice hessienne]] semi-définie positive)
+
+Les points vérifiant $\nabla f(x^*) = 0$ sont appelés **points critiques** ou **points stationnaires**.
+
+> [!warning]
+> Ces conditions sont nécessaires mais **pas suffisantes** ! Un point critique peut être un minimum, un maximum ou un point-selle.
+
 ---
 
-***Références :***
+## **Conditions suffisantes d'optimalité**
+
+### Minimum local strict
+Si les conditions suivantes sont vérifiées, alors x* est **suffisamment** un **minimum local strict** :
+
+1. $\nabla f(x^*) = 0$
+2. $\nabla^2 f(x^*) \succ 0$ (Hessienne **définie positive**)
+
+### Maximum local strict
+Si les conditions suivantes sont vérifiées, alors x* est **suffisamment** un **maximum local strict** :
+
+1. $\nabla f(x^*) = 0$
+2. $\nabla^2 f(x^*) \prec 0$ (Hessienne **définie négative**)
 
 ---
 
-### **Condition nécéssaire** d’optimalité
+## **Récapitulatif**
 
-#### minimum local
-
-Les conditions nécessaire d’optimalité donnent les conditions nécessairement vérifiées par un **minimum** **local** x de f.
-
-Deux condition pour vérifier :
-- **Condition du premier ordre** —> lié au [[Vecteur gradient]]
-- **Condition du second ordre** —> lié à la [[Matrice hessienne]]
-
-**Point critiques** ou **points stationnaires** sont les points pour qui la dérivée de la fonction en ces points = 0.
+| Condition | Hessienne | Conclusion |
+|-----------|-----------|------------|
+| $\nabla f(x^*) = 0$ | $\nabla^2 f(x^*) \succ 0$ | **Minimum local strict** ✓ |
+| $\nabla f(x^*) = 0$ | $\nabla^2 f(x^*) \prec 0$ | **Maximum local strict** ✓ |
+| $\nabla f(x^*) = 0$ | $\nabla^2 f(x^*) \succeq 0$ | **Peut-être** un minimum (test non concluant) |
+| $\nabla f(x^*) = 0$ | Hessienne indéfinie | **Point-selle** |
 
 
-### **Condition suffisantes** d’optimalité
-
-#### minimum local
-
-Les conditions nécessaire d’optimalité donnent les conditions suffisantes vérifiées par un **minimum** **local** x de f.
-
-Deux condition pour vérifier :
-- **[[Dérivée]] de f(x*) = 0 -> $\triangledown f(x^*)=0$
-- **Dérivée seconde de f(x*) est semi positive -> $\triangledown^2 f(x^*) \succeq 0$
-
-#### maximum local
-
-Les conditions nécessaire d’optimalité donnent les conditions suffisantes vérifiées par un **maximum** **local** x de f.
-
-Deux condition pour vérifier :
-- **[[Dérivée]] de f(x*) = 0 -> $\triangledown f(x^*)=0$
-- **Dérivée seconde de f(x*) est semi positive -> $\triangledown^2 f(x^*) \preceq 0$
