@@ -10,18 +10,6 @@ tags:
 
 ---
 
----
-***Références :***
-
----
----
-***Références :***
-
----
-
-
-
-
 ## Définition
 
 La statistique descriptive permet de **résumer, organiser et présenter** des données pour en faciliter la compréhension.

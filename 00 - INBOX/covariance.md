@@ -1,6 +1,7 @@
 ---
-MOC:
+MOC: "[[MATHS]]"
 tags:
+  - maths/stats
 ---
 ---
 ***Références :***
@@ -58,4 +59,4 @@ donc $E[X^3]=\int_{\infty}^{-\infty}x^3dx = 0$
 > - **Covariance** = dire "deux villes sont à 500 km" (valeur absolue)
 > - **Corrélation** = dire "deux villes sont à 50% de la distance max du pays" (valeur relative)
 
-Cette normalistion est appliquée grace à la [[Corrélation de pearson]]
+Cette normalisation est appliquée grâce à la [[Corrélation de pearson]]

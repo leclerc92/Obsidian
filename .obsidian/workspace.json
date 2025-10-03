@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc7cf977eadc222",
+        "id": "c3227f253c7908cd",
         "type": "tabs",
         "children": [
           {
-            "id": "b5dc896de71c178f",
+            "id": "c49ad182e6c3e15c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c67649c8d7530e8f",
+            "id": "05ff0656f27412e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - INBOX/Corrélation de pearson.md",
+                "file": "00 - INBOX/Test de corrélation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Corrélation de pearson"
-            }
-          },
-          {
-            "id": "2aae85d4cabfbccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - NOTES/LATEX SUITE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LATEX SUITE"
+              "title": "Test de corrélation"
             }
           }
         ],
@@ -133,8 +109,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1406a39225bf1c21",
@@ -194,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - NOTES/Brooks Robertson.md",
+                "file": "00 - INBOX/Test de corrélation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Brooks Robertson"
+              "title": "Liens sortants de Test de corrélation"
             }
           },
           {
@@ -227,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "cb5c631202d5b35b",
@@ -239,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/test anki.md",
+                "file": "00 - INBOX/Test de corrélation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,15 +242,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de test anki"
+              "title": "Graphique de Test de corrélation"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,12 +266,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c67649c8d7530e8f",
+  "active": "05ff0656f27412e7",
   "lastOpenFiles": [
     "00 - INBOX/covariance.md",
+    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
     "00 - INBOX/Corrélation de pearson.md",
-    "10 - NOTES/LATEX SUITE.md",
+    "00 - INBOX/Sans titre.md",
     "00 - INBOX/Analyse de données.md",
+    "00 - INBOX/Intervalles de confiance.md",
+    "00 - INBOX/Test de corrélation.md",
+    "10 - NOTES/LATEX SUITE.md",
+    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
+    "00 - INBOX/ec.md",
     "10 - NOTES/Loi Normale.md",
     "10 - NOTES/R.md",
     "10 - NOTES/Matrice définie positive.md",
@@ -315,17 +295,11 @@
     "10 - NOTES/determinant.md",
     "10 - NOTES/forme quadratique.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
-    "00 - INBOX/dérib.md",
-    "10 - NOTES/Présent perfect.md",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",
     "98 - RESSOURCES/Pasted image 20250927113757 1.png",
-    "10 - NOTES/MCD 1.md",
     "98 - RESSOURCES/Ink 1/Writing",
     "98 - RESSOURCES/Ink 1",
-    "10 - NOTES/Methode comportementale.md",
-    "10 - NOTES/EQUATION DE KAYA.md",
-    "2025-09-29.md",
     "98 - RESSOURCES/Pasted image 20250929191623.png",
     "98 - RESSOURCES/Ink/Writing/2025.9.28 - 9.45am.drawing",
     "98 - RESSOURCES/Ink/Writing",

@@ -5,210 +5,162 @@ tags:
 ---
 
 
----
-***Références :***
+## L'idée en une phrase
+
+**Tirer des conclusions sur une population entière à partir d'un échantillon limité.**
+
+On ne peut pas tout mesurer → on mesure un échantillon → on généralise avec un niveau de confiance.
 
 ---
----
-***Références :***
+
+## Exemple fil rouge : Temps de charge d'une app
+
+**Contexte :** Tu développes une app mobile et veux savoir si le temps de chargement est acceptable.
+
+- **Population** : Tous les utilisateurs potentiels (millions) → μ = ?
+- **Échantillon** : 100 utilisateurs testés → $\bar{x} = 2,3$ secondes, $s = 0,8$ sec
+- **Question** : Le temps moyen est-il vraiment < 3 secondes ?
+
+**Deux approches possibles :**
+
+### 1️⃣ Estimation : "Quelle est la valeur probable ?"
+
+➜ **Intervalle de confiance à 95%**
+
+- Résultat : [2,1 ; 2,5] secondes
+- Interprétation : "On est confiant à 95% que le vrai temps moyen se situe entre 2,1 et 2,5 sec"
+
+### 2️⃣ Test : "Mon hypothèse est-elle crédible ?"
+
+➜ **Test d'hypothèse**
+
+- H₀ : μ = 3 secondes (l'app est trop lente)
+- H₁ : μ < 3 secondes (l'app est assez rapide)
+- Test t de Student → p-value = 0,001
+- Conclusion : On rejette H₀, l'app est significativement plus rapide que 3 sec ✓
 
 ---
 
-## Définition
+## Le processus en 4 étapes
 
-Les statistiques inférentielles permettent de **généraliser** les résultats d'un échantillon à une population entière et de **prendre des décisions** sous incertitude.
 
-## Concepts Fondamentaux
+1. COLLECTER
+   └─ Échantillon représentatif (n observations)
 
-### Population vs Échantillon
+2. DÉCRIRE
+   └─ [[STATISTIQUES DESCRIPTIVES]] (x̄, s, médiane...)
 
-- **Population** : ensemble complet étudié (paramètres : μ, σ, π)
-- **Échantillon** : sous-ensemble de la population (statistiques : x̄, s, p̂)
+3. INFÉRER
+   ├─ Estimer → [[Intervalles de confiance]]
+   └─ Tester → Tests d'hypothèses
 
-### Distribution d'Échantillonnage
+4. CONCLURE
+   └─ Interpréter dans le contexte réel
 
-- Distribution théorique d'une statistique calculée sur tous les échantillons possibles
-- **Théorème Central Limite** : pour n ≥ 30, x̄ suit approximativement une loi normale
 
-## Estimation
+---
 
-### Estimation Ponctuelle
+## Quel test choisir ? Arbre de décision
 
-- **Estimateur** : règle de calcul (x̄ pour μ)
-- **Estimation** : valeur numérique obtenue
-- **Propriétés** : sans biais, convergent, efficace
 
-### Estimation par Intervalle (Intervalle de Confiance)
+Je veux comparer quoi ?
+│
+├─ UNE MOYENNE
+│  ├─ σ connu → Test Z
+│  └─ σ inconnu → Test de Student
+│
+├─ DEUX MOYENNES
+│  ├─ Groupes indépendants → Test t indépendant
+│  └─ Groupes appariés (avant/après) → Test t apparié
+│
+├─ 3+ MOYENNES
+│  └─ ANOVA
+│
+├─ UNE PROPORTION
+│  └─ Test Z proportion
+│
+├─ DEUX VARIABLES QUALITATIVES
+│  └─ Test du Chi²
+│
+└─ RELATION ENTRE 2 VARIABLES QUANTITATIVES
+   └─ Corrélation et Régression linéaire
 
-- **Formule générale** : estimation ± marge d'erreur
-- **Niveau de confiance** : 1 - α (souvent 95% ou 99%)
 
-#### IC pour une moyenne (σ connu)
+> [!tip] Données pas normales ou petit échantillon ? → Utilise les Tests non-paramétriques
 
-x̄ ± z_{α/2} × (σ/√n)
+---
 
-#### IC pour une moyenne (σ inconnu)
+## Les 3 concepts clés
 
-x̄ ± t_{α/2} × (s/√n)
+### 1. Distribution d'échantillonnage
 
-#### IC pour une proportion
+Si je répète mon étude 1000 fois, j'obtiens 1000 $\bar{x}$ différents → ils suivent une distribution.
 
-p̂ ± z_{α/2} × √(p̂(1-p̂)/n)
+**Théorème Central Limite :** Pour n ≥ 30, cette distribution est approximativement normale !
 
-## Tests d'Hypothèses
+### 2. Niveau de confiance (1 - α)
 
-### Étapes du Test
+- **95%** = si je répète l'étude 100 fois, 95 intervalles contiendront le vrai paramètre
+- Souvent α = 0,05 (5% d'erreur acceptée)
 
-1. **Hypothèses** : H₀ (nulle) vs H₁ (alternative)
-2. **Seuil de signification** : α (souvent 0,05)
-3. **Statistique de test** et sa distribution sous H₀
-4. **Valeur critique** ou **p-value**
-5. **Décision** : rejeter ou ne pas rejeter H₀
-6. **Conclusion** en contexte
+### 3. P-value
 
-### Types d'Erreurs
+Probabilité d'observer nos données (ou plus extrêmes) SI H₀ était vraie.
 
-- **Erreur Type I (α)** : rejeter H₀ vraie
-- **Erreur Type II (β)** : accepter H₀ fausse
-- **Puissance** : 1 - β (probabilité de rejeter H₀ fausse)
+- p < 0,05 → résultat "significatif" → on rejette H₀
+- p ≥ 0,05 → pas assez de preuves → on garde H₀
 
-### P-value
+> [!warning] Attention !
+> 
+> - Significatif ≠ important dans la pratique
+> - Corrélation ≠ causalité
+> - p-value ≠ "probabilité que H₀ soit vraie"
 
-Probabilité d'observer une valeur au moins aussi extrême que celle observée, sous H₀.
+---
 
-- **p < α** : résultat significatif → rejeter H₀
-- **p ≥ α** : résultat non significatif → ne pas rejeter H₀
+## Fiches détaillées
 
-## Tests Paramétriques
+### Concepts de base
 
-### Test de Student (t)
-
-#### Une moyenne (σ inconnu)
-
-- **H₀** : μ = μ₀
-- **Statistique** : t = (x̄ - μ₀)/(s/√n)
-- **ddl** : n - 1
-
-#### Deux moyennes indépendantes
-
-- **H₀** : μ₁ = μ₂
-- **Statistique** : t = (x̄₁ - x̄₂)/s_pooled × √(1/n₁ + 1/n₂)
-
-#### Deux moyennes appariées
-
-- **H₀** : μ_d = 0
-- **Statistique** : t = x̄_d/(s_d/√n)
-
-### Test de la Normale (Z)
-
-#### Une moyenne (σ connu)
-
-- **Statistique** : z = (x̄ - μ₀)/(σ/√n)
-
-#### Une proportion
-
-- **H₀** : π = π₀
-- **Statistique** : z = (p̂ - π₀)/√(π₀(1-π₀)/n)
-
-### Test du χ² (Chi-deux)
-
-#### Indépendance
-
-- **H₀** : variables indépendantes
-- **Statistique** : χ² = Σ(O_i - E_i)²/E_i
-- **ddl** : (r-1)(c-1)
-
-#### Adéquation
-
-- **H₀** : distribution suit le modèle théorique
-
-### ANOVA (Analyse de Variance)
-
-#### À un facteur
-
-- **H₀** : μ₁ = μ₂ = ... = μₖ
-- **Statistique** : F = VCE/VCR
-- Compare la variance entre groupes / dans les groupes
-
-## Tests Non-Paramétriques
-
-### Conditions d'Utilisation
-
-- Échantillons petits (n < 30)
-- Données non normales
-- Variables ordinales
-- Conditions des tests paramétriques non respectées
-
-### Principaux Tests
-
-- **Mann-Whitney** : comparer deux groupes indépendants
-- **Wilcoxon** : comparer deux groupes appariés
-- **Kruskal-Wallis** : comparer k groupes indépendants
-- **χ² d'indépendance** : association entre variables qualitatives
-
-## Distributions de Référence
-
-### [[Loi Normale]] N(μ,σ²)
-
-- **Centrée réduite** : Z ~ N(0,1)
-- **Règle empirique** : 68%-95%-99.7%
-
-### Loi de Student t(ν)
-
-- **ddl** : ν = n - 1
-- Plus aplatie que la normale
-- Converge vers N(0,1) quand ν → ∞
-
-### Loi du χ² (ν)
-
-- **ddl** : ν
-- Asymétrique positive
-- Variance = 2ν
-
-### Loi de Fisher F(ν₁,ν₂)
-
-- **ddl** : ν₁ (numérateur), ν₂ (dénominateur)
-- Rapport de deux χ²
-
-## Conditions d'Application
-
-### Tests Paramétriques
-
-1. **Normalité** des données ou grands échantillons
-2. **Indépendance** des observations
-3. **Homoscédasticité** (égalité des variances)
-
-### Vérifications
-
-- **Test de Shapiro-Wilk** : normalité
-- **Test de Levene** : égalité des variances
-- **Graphiques Q-Q** : normalité visuelle
-
-## Taille d'Échantillon
+- Population vs Échantillon
+- Théorème Central Limite
+- [[Loi Normale]]
 
 ### Estimation
 
-n = (z_{α/2} × σ / E)² où E = marge d'erreur souhaitée
+- Estimation ponctuelle
+- Intervalles de confiance
+- Taille d'échantillon
 
-### Test d'hypothèses
+### Tests d'hypothèses
 
-Dépend de α, β, et taille d'effet attendue
+- Tests d'hypothèses - Méthodologie
+- Erreurs Type I et II
+- Puissance d'un test
 
-## Points Clés à Retenir
+### Tests paramétriques
 
-1. **Toujours vérifier** les conditions d'application
-2. **p-value ≠ probabilité que H₀ soit vraie**
-3. **Significatif ≠ important** (différence pratique vs statistique)
-4. **Corrélation ≠ causalité**
-5. **Interpréter** les IC autant que les tests
-6. **Tests multiples** : ajuster le seuil α (Bonferroni)
+- Test de Student
+- Test Z
+- Test du Chi²
+- ANOVA
 
-## Formules Essentielles
+### Autres
 
-|Test|Statistique|Distribution|
+- Tests non-paramétriques
+- Conditions d'application des tests
+- Distributions de référence
+
+---
+
+
+## Formules express
+
+|Besoin|Formule|Conditions|
 |---|---|---|
-|t (1 moy.)|t = (x̄-μ₀)/(s/√n)|t(n-1)|
-|z (1 moy.)|z = (x̄-μ₀)/(σ/√n)|N(0,1)|
-|z (1 prop.)|z = (p̂-π₀)/√(π₀(1-π₀)/n)|N(0,1)|
-|χ² indép.|χ² = Σ(O-E)²/E|χ²((r-1)(c-1))|
-|F (ANOVA)|F = VCE/VCR|F(k-1,n-k)|
+|IC moyenne|$\bar{x} \pm t \times \frac{s}{\sqrt{n}}$|σ inconnu|
+|IC proportion|$\hat{p} \pm z \times \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$|n grand|
+|Test t|$t = \frac{\bar{x} - \mu_0}{s/\sqrt{n}}$|σ inconnu|
+|Test χ²|$\chi^2 = \sum \frac{(O-E)^2}{E}$|Variables catégorielles|
+
+> Pour les formules détaillées, voir les fiches spécifiques de chaque test.
