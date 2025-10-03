@@ -4,20 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "08727c52c952dab8",
+        "id": "2fc7cf977eadc222",
         "type": "tabs",
         "children": [
           {
-            "id": "49d9090bd38686b6",
+            "id": "b5dc896de71c178f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/covariance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "covariance"
+            }
+          },
+          {
+            "id": "c67649c8d7530e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/Corrélation de pearson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Corrélation de pearson"
+            }
+          },
+          {
+            "id": "2aae85d4cabfbccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/LATEX SUITE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LATEX SUITE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cova",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/Optimisation.md",
+                "file": "00 - INBOX/test anki.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,14 +267,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Optimisation"
+              "title": "Graphique de test anki"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,43 +288,45 @@
       "graph:Ouvrir la vue graphique": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-git:Open Git source control": false,
-      "daily-random-note:Daily Random Note": false
+      "daily-random-note:Daily Random Note": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "0c781d2094e09c28",
+  "active": "c67649c8d7530e8f",
   "lastOpenFiles": [
+    "00 - INBOX/covariance.md",
+    "00 - INBOX/Corrélation de pearson.md",
+    "10 - NOTES/LATEX SUITE.md",
+    "00 - INBOX/Analyse de données.md",
+    "10 - NOTES/Loi Normale.md",
+    "10 - NOTES/R.md",
+    "10 - NOTES/Matrice définie positive.md",
+    "00 - INBOX/test anki.md",
+    "10 - NOTES/Docker.md",
+    "10 - NOTES/matrice.md",
+    "98 - RESSOURCES/prétérit progressif.md",
+    "10 - NOTES/Optimisation.md",
     "10 - NOTES/Convexité.md",
     "10 - NOTES/Dérivée.md",
     "10 - NOTES/SSH.md",
     "10 - NOTES/Vecteur gradient.md",
     "10 - NOTES/Matrice hessienne.md",
     "00 - INBOX/VECTEUR.md",
-    "10 - NOTES/Optimisation.md",
     "10 - NOTES/determinant.md",
     "10 - NOTES/forme quadratique.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
-    "10 - NOTES/matrice.md",
     "00 - INBOX/dérib.md",
-    "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/Présent perfect.md",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",
     "98 - RESSOURCES/Pasted image 20250927113757 1.png",
     "10 - NOTES/MCD 1.md",
-    "10 - NOTES/Loi Normale.md",
     "98 - RESSOURCES/Ink 1/Writing",
     "98 - RESSOURCES/Ink 1",
     "10 - NOTES/Methode comportementale.md",
     "10 - NOTES/EQUATION DE KAYA.md",
     "2025-09-29.md",
     "98 - RESSOURCES/Pasted image 20250929191623.png",
-    "10 - NOTES/R.md",
-    "01 - DOMAINES/LANGUES.md",
-    "10 - NOTES/Brooks Robertson.md",
-    "01 - DOMAINES/PROGRAMMATION.md",
-    "10 - NOTES/Tests fonctionnels ou boite noire.md",
-    "10 - NOTES/MCD.md",
-    "10 - NOTES/MLD.md",
     "98 - RESSOURCES/Ink/Writing/2025.9.28 - 9.45am.drawing",
     "98 - RESSOURCES/Ink/Writing",
     "98 - RESSOURCES/Ink",
@@ -271,7 +337,6 @@
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37.png",
     "98 - RESSOURCES/Pasted image 20250927113757.png",
     "98 - RESSOURCES/Pasted image 20250927113421.png",
-    "10 - NOTES/analyse partitionnelle.md",
     "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",

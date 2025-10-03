@@ -9,10 +9,6 @@ tags:
 ***Références :***
 
 ---
----
-***Références :***
-
----
 
 ## Définition
 

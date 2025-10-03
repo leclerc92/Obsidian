@@ -57,15 +57,15 @@ Latext suite est un module [[Obsidian]] pour avoir des raccoucis dans la syntaxe
 
 ## 🔤 Lettres Grecques (Auto-expansion)
 
-|Tapez|Résultat  |Tapez|Résultat |
-|-----|----------|-----|---------|
-|`;a` |`\alpha`  |`;b` |`\beta`  |
-|`;g` |`\gamma`  |`;d` |`\delta` |
-|`;e` |`\epsilon`|`;z` |`\zeta`  |
-|`;t` |`\theta`  |`;l` |`\lambda`|
-|`;m` |`\mu`     |`;p` |`\pi`    |
-|`;s` |`\sigma`  |`;f` |`\phi`   |
-|`;o` |`\omega`  |`;G` |`\Gamma` |
+| Tapez | Résultat   | Tapez | Résultat  |
+| ----- | ---------- | ----- | --------- |
+| `;a`  | `\alpha`   | `;b`  | `\beta`   |
+| `;g`  | `\gamma`   | `;d`  | `\delta`  |
+| `;e`  | `\epsilon` | `;z`  | `\zeta`   |
+| `;t`  | `\theta`   | `;l`  | `\lambda` |
+| `;m`  | `\mu`      | `;p`  | `\pi`     |
+| `;s`  | `\sigma`   | `;f`  | `\phi`    |
+| `;o`  | `\omega`   | `;G`  | `\Gamma`  |
 
 ## ⚡ Symboles Rapides
 

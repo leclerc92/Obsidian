@@ -179,6 +179,7 @@ docker-compose up --build
 # Arrêter les services
 docker-compose down
 docker-compose down -v  # Supprime aussi les volumes
+docker-compose down --remove-orphans #Supprimer les container non definis
 
 # Voir les logs
 docker-compose logs

@@ -1,0 +1,280 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "0 Neri's Sentences (Read)": "",
+      "0 Neri's Sentences (Speak)": "",
+      "Basic-36bff": "",
+      "Basic-a43c6": "",
+      "Basique": "",
+      "Basique (carte inversée optionnelle)": "",
+      "Basique (saisissez la réponse)": "",
+      "Basique+": "",
+      "Basique-d5253": "",
+      "Essential_eng-fra": "",
+      "Généralités (deux sens)": "",
+      "Image Occlusion": "",
+      "Intro card": "",
+      "LoF 1-sided forms": "",
+      "LoF 1-sided info": "",
+      "LoF cloze": "",
+      "LoF forms": "",
+      "Podstawowy-338d2": "",
+      "Texte à trous": "",
+      "voc-TOEIC": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "0 Neri's Sentences (Read)": "Sentence",
+      "0 Neri's Sentences (Speak)": "Sentence",
+      "Basic-36bff": "Front",
+      "Basic-a43c6": "Front",
+      "Basique": "Recto",
+      "Basique (carte inversée optionnelle)": "Recto",
+      "Basique (saisissez la réponse)": "Recto",
+      "Basique+": "Recto",
+      "Basique-d5253": "Recto",
+      "Essential_eng-fra": "Front",
+      "Généralités (deux sens)": "Recto",
+      "Image Occlusion": "Occlusion",
+      "Intro card": "Front",
+      "LoF 1-sided forms": "Front",
+      "LoF 1-sided info": "Front",
+      "LoF cloze": "Back",
+      "LoF forms": "Front",
+      "Podstawowy-338d2": "Przód",
+      "Texte à trous": "Texte",
+      "voc-TOEIC": "fr"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "00 - INBOX": "",
+      "01 - DOMAINES": "",
+      "10 - NOTES": "",
+      "98 - RESSOURCES": "",
+      "99 - MODELS": "",
+      "98 - RESSOURCES/Ink": "",
+      "98 - RESSOURCES/Ink/Writing": ""
+    },
+    "FOLDER_TAGS": {
+      "00 - INBOX": "",
+      "01 - DOMAINES": "",
+      "10 - NOTES": "",
+      "98 - RESSOURCES": "",
+      "99 - MODELS": "",
+      "98 - RESSOURCES/Ink": "",
+      "98 - RESSOURCES/Ink/Writing": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "flashcard",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "99 - MODELS/03 - NOUVEAU MOC.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md": "7876facfd65396b02013055021cdd4a8",
+    "99 - MODELS/01 - NOUVELLE NOTE MOC.md": "312df12d4f3c7bb301b37db0d56f7f4d",
+    "98 - RESSOURCES/prétérit progressif.md": "420fd9dccb6b6f00f77cbbedf45c13c8",
+    "01 - DOMAINES/SCIENCE.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/PROGRAMMATION.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/PRODUCTIVITE.md": "e089f6b3f1d0c1ba9acbbc1c1fecc579",
+    "01 - DOMAINES/MUSIQUE.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/MATHS.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/LITTERATURE.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/LANGUES.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/ENVIRONNEMENT.md": "de563d1de9bfc2540c809c120b1b3ecb",
+    "01 - DOMAINES/DEVOBS.md": "190912292204e85beab20756c6e1d025",
+    "10 - NOTES/tests structurels ou boite blanche.md": "e10a7867c669ffb356ee8b87639d2f15",
+    "10 - NOTES/tests all single.md": "9f10247a3917d78456254b3a32f4d05c",
+    "10 - NOTES/tests all pairs.md": "c4032538ca45521d76127802e97786ec",
+    "10 - NOTES/test combinatoire.md": "f5ce2a7725cd86c119b2d08ff15e9503",
+    "10 - NOTES/polynôme caractéristique.md": "4e4b67095b3630e66621e2bf16ff57dd",
+    "10 - NOTES/matrice.md": "af06ca4a1732d0db55ae5e1bb5e9b785",
+    "10 - NOTES/formule de Leibniz.md": "7825bc5c414d63319b2b51b7f99c3068",
+    "10 - NOTES/forme quadratique.md": "08e6e596ba5bc9942cdfe5cd82762fd8",
+    "10 - NOTES/evosuite.md": "72e054328c998a49cd560c69b9270903",
+    "10 - NOTES/determinant.md": "8b04bb87221292f9fc43898d24ee0a8a",
+    "10 - NOTES/analyse partitionnelle.md": "27f647265b32c771489b1fd57fa63a59",
+    "10 - NOTES/WeakMap.md": "8491299dd750ef39c051ec22f739c609",
+    "10 - NOTES/Vecteur gradient.md": "94c455036fed0105870a85680431c955",
+    "10 - NOTES/Valeurs Propres et Vecteurs Propres.md": "97097d9d8ae2d5a712e4988d75a2318f",
+    "10 - NOTES/Tests fonctionnels ou boite noire.md": "83449a7a9c0bddf140cba12ed1764586",
+    "10 - NOTES/STATISTIQUES INFERENTIELLES.md": "c1c2bce81ad51b9fb82dda691a311ded",
+    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md": "97e9344017e081f82ba77e508155dc62",
+    "10 - NOTES/SSH.md": "332ad96734262267330eb1290a2ad848",
+    "10 - NOTES/R.md": "1a738fb415bffa655ce45c6b5c9ae2d0",
+    "10 - NOTES/Présent perfect.md": "39dcccb816e9c0df234d07d9ec5f6106",
+    "10 - NOTES/Primitives.md": "2e14cd0bd9ea37a94b7ba6125439439d",
+    "10 - NOTES/Optimisation.md": "b110bd7ba1a948fcee86c90a461b720c",
+    "10 - NOTES/Obsidian.md": "b9be11ce61267a9a55cc4852fba44952",
+    "10 - NOTES/Methode syntaxique.md": "bf6c355aecb12eecfae6b9680c1e301f",
+    "10 - NOTES/Methode comportementale.md": "4b845374cfba5f99f77e64c575de3e4d",
+    "10 - NOTES/Matrice hessienne.md": "fc764a633ab37ed2af737c404e7ab624",
+    "10 - NOTES/Matrice définie positive.md": "f2e81402c6f081c95ab94e6ff539438c",
+    "10 - NOTES/Markdown.md": "5e52ed2769e0bc8b105a940640c04bb7",
+    "10 - NOTES/MLD.md": "1b89e98f62f87686fb06a975826b65c8",
+    "10 - NOTES/MCD.md": "167b85f40511fb8e07387775a90800b7",
+    "10 - NOTES/MCD 1.md": "de2a5eddb90760302f281ee83cfb7849",
+    "10 - NOTES/Lorenzo Polidori.md": "14b011f65114edf7d6c6aa5505287144",
+    "10 - NOTES/Loi Normale.md": "d8037498ce3d88fe360d80763f7cdc88",
+    "10 - NOTES/LaTeX.md": "016c1122d0dc0051b8ad9568487dbbcb",
+    "10 - NOTES/LATEX SUITE.md": "e5bb6cb29970e30cf1ce0919bd8f6e7a",
+    "10 - NOTES/Kyrian Daniel.md": "a90d7c634886e2f0a22303c90893f75c",
+    "10 - NOTES/Heuristiques.md": "f1d1adef972e75c5e398c3af29bfc59f",
+    "10 - NOTES/HTML.md": "8cce46e6b6b9186ec138e73466674cd3",
+    "10 - NOTES/Graphe de flot de données.md": "b74403a58af64312ace905ab1e3dd7d8",
+    "10 - NOTES/Graphe de flot de controle.md": "db66676c869f0113bfdca4fe41fd014c",
+    "10 - NOTES/Git.md": "f56b456ac25d2fb682856d510e6656af",
+    "10 - NOTES/Exécution symbolique d'une fonction.md": "9dbc8116999358cb89bd173393e5e61a",
+    "10 - NOTES/Expression régulière.md": "98e79e35e006987617e9e4beffacce9f",
+    "10 - NOTES/Emil Ernebro.md": "0c3fe057ad8fa708eda7352b6e1fbe14",
+    "10 - NOTES/EQUATION DE KAYA.md": "bd06f19e765d56afae2488f136636ee0",
+    "10 - NOTES/Développement par Cofacteurs (Méthode de Laplace).md": "334137e94623507304bfb9aade1d5b1e",
+    "10 - NOTES/Dérivée.md": "c421d500b2b26685ed9f5b1dd7add426",
+    "10 - NOTES/Docker.md": "c6ffc5fdda2534901b3d92201b404a05",
+    "10 - NOTES/Deon mayer.md": "202e14dcba25113ec45a11d774b772bb",
+    "10 - NOTES/Convexité.md": "e414e20bf78e06c681d64560b293f47a",
+    "10 - NOTES/Comatrice.md": "c420e41493f31bb6e8e198f0aeb46501",
+    "10 - NOTES/Brooks Robertson.md": "e5ba2a4326b1023cfc5cb5e30a695c23",
+    "10 - NOTES/Chemins d'exécution.md": "a39ca95cc93b58bb916cbe6a4f6a9c50",
+    "10 - NOTES/Astuces javascript.md": "49c99143d1ad6e2ea7370818cd834213",
+    "00 - INBOX/test anki.md": "86b0e608eb25136eed18c64158d418c9",
+    "00 - INBOX/Sans titre.md": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "fields_dict": {
+    "0 Neri's Sentences (Read)": [
+      "Sentence",
+      "Sentence (English)",
+      "Sentence (Search Field)",
+      "Language Code",
+      "Language",
+      "[1]",
+      "[2]"
+    ],
+    "0 Neri's Sentences (Speak)": [
+      "Sentence",
+      "Sentence (English)",
+      "Sentence (Search Field)",
+      "Language Code",
+      "Language",
+      "[1]",
+      "[2]"
+    ],
+    "Basic-36bff": [
+      "Front",
+      "Back"
+    ],
+    "Basic-a43c6": [
+      "Front",
+      "Image",
+      "Sound",
+      "Sound_Meaning",
+      "Sound_Example",
+      "Meaning",
+      "Example"
+    ],
+    "Basique": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique (carte inversée optionnelle)": [
+      "Recto",
+      "Verso",
+      "Ajouter le verso"
+    ],
+    "Basique (saisissez la réponse)": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique+": [
+      "Recto",
+      "Verso"
+    ],
+    "Basique-d5253": [
+      "Recto",
+      "Verso"
+    ],
+    "Essential_eng-fra": [
+      "Front",
+      "Back",
+      "Audio"
+    ],
+    "Généralités (deux sens)": [
+      "Recto",
+      "Verso"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "En-tête",
+      "Verso Extra",
+      "Comments"
+    ],
+    "Intro card": [
+      "Front",
+      "Back"
+    ],
+    "LoF 1-sided forms": [
+      "Front",
+      "Back",
+      "Formen",
+      "ID",
+      "Audio"
+    ],
+    "LoF 1-sided info": [
+      "Front",
+      "Back",
+      "Formen",
+      "ID",
+      "Audio"
+    ],
+    "LoF cloze": [
+      "Back",
+      "ID",
+      "Audio",
+      "Text"
+    ],
+    "LoF forms": [
+      "Front",
+      "Back",
+      "Formen",
+      "ID",
+      "Audio"
+    ],
+    "Podstawowy-338d2": [
+      "Przód",
+      "Tył"
+    ],
+    "Texte à trous": [
+      "Texte",
+      "Verso Extra"
+    ],
+    "voc-TOEIC": [
+      "fr",
+      "en",
+      "type",
+      "syn",
+      "description"
+    ]
+  }
+}
