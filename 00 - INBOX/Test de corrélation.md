@@ -60,7 +60,7 @@ Distribution : Student avec **ddl = n - 2**
 
 **Processus :**
 
-1. Calculer r sur l'échantillon
+1. Calculer r sur l'échantillon -> [[Corrélation de pearson]]
 2. Calculer la statistique t
 3. Comparer à $t_{\alpha/2, n-2}$ ou calculer la p-value
 4. Décision : si |t| > valeur critique → rejeter H₀
@@ -129,11 +129,14 @@ $$t = 0.65\sqrt{\frac{30-2}{1-0.65^2}} = 0.65\sqrt{\frac{28}{0.5775}} = 0.65 \ti
 
 ### Quand l'utiliser ?
 
-✅ Relation **monotone** (pas forcément linéaire) ✅ Variables **ordinales** ou quantitatives ✅ Données **non normales** ✅ Présence de **valeurs extrêmes**
+✅ Relation **monotone** (pas forcément linéaire) 
+✅ Variables **ordinales** ou quantitatives 
+✅ Données **non normales** 
+✅ Présence de **valeurs extrêmes**
 
 ### Principe
 
-Mesure la corrélation entre les **rangs** des observations.
+Mesure la [[Corrélation de spearman]] entre les **rangs** des observations.
 
 **Coefficient de Spearman :**
 
