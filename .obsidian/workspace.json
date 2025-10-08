@@ -11,10 +11,24 @@
             "id": "7453bb3f9277696e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -175,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Analyse de données.md",
+                "file": "00 - INBOX/test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Analyse de données"
+              "title": "Graph of test"
             }
           }
         ]
@@ -226,8 +240,9 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "556707f70c9f1dd2",
+  "active": "7453bb3f9277696e",
   "lastOpenFiles": [
+    "00 - INBOX/test.md",
     "00 - INBOX/Corrélation de pearson.md",
     "00 - INBOX/covariance.md",
     "00 - INBOX/Analyse de données.md",
@@ -253,7 +268,6 @@
     "10 - NOTES/SSH.md",
     "10 - NOTES/Vecteur gradient.md",
     "10 - NOTES/Matrice hessienne.md",
-    "00 - INBOX/VECTEUR.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",
