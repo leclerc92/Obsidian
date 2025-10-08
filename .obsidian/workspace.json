@@ -11,24 +11,10 @@
             "id": "7453bb3f9277696e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "New tab"
             }
           }
         ]
@@ -189,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/test.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of test"
+              "title": "Graph view"
             }
           }
         ]
@@ -240,7 +225,7 @@
       "daily-random-note:Daily Random Note": false
     }
   },
-  "active": "7453bb3f9277696e",
+  "active": "b0385496cd3bbadf",
   "lastOpenFiles": [
     "00 - INBOX/test.md",
     "00 - INBOX/Corrélation de pearson.md",
