@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "b36831297fd0bd47",
         "type": "tabs",
         "children": [
@@ -15,6 +16,19 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
+=======
+        "id": "03860067a5139a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7453bb3f9277696e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> c2e8f9064abf1b7407a061426187d372c2b908e4
             }
           }
         ]
@@ -40,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -88,7 +102,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           }
         ]
@@ -175,7 +189,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "99 - MODELS/04 - flashcard.md",
+=======
+>>>>>>> c2e8f9064abf1b7407a061426187d372c2b908e4
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +220,11 @@
                 }
               },
               "icon": "lucide-git-fork",
+<<<<<<< HEAD
               "title": "Graphique de 04 - flashcard"
+=======
+              "title": "Graph view"
+>>>>>>> c2e8f9064abf1b7407a061426187d372c2b908e4
             }
           }
         ]
@@ -215,19 +236,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": true,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": true,
-      "graph:Ouvrir la vue graphique": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-git:Open Git source control": false,
-      "daily-random-note:Daily Random Note": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "daily-random-note:Daily Random Note": false
     }
   },
+<<<<<<< HEAD
   "active": "6c3eec4e1f775ed6",
   "lastOpenFiles": [
     "10 - NOTES/Markdown.md",
@@ -244,11 +265,20 @@
     "00 - INBOX/Corrélation de spearman.md",
     "00 - INBOX/Corrélation de pearson.md",
     "00 - INBOX/Test de corrélation.md",
+=======
+  "active": "b0385496cd3bbadf",
+  "lastOpenFiles": [
+    "00 - INBOX/test.md",
+    "00 - INBOX/Corrélation de pearson.md",
+>>>>>>> c2e8f9064abf1b7407a061426187d372c2b908e4
     "00 - INBOX/covariance.md",
+    "00 - INBOX/Analyse de données.md",
+    "00 - INBOX/Corrélation de spearman.md",
+    "00 - INBOX/Intervalles de confiance.md",
+    "00 - INBOX/Test de corrélation.md",
+    "10 - NOTES/Tests fonctionnels ou boite noire.md",
     "00 - INBOX/anki.md",
     "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
-    "00 - INBOX/Analyse de données.md",
-    "00 - INBOX/Intervalles de confiance.md",
     "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "00 - INBOX/ec.md",
@@ -256,6 +286,14 @@
     "10 - NOTES/matrice.md",
     "98 - RESSOURCES/prétérit progressif.md",
     "10 - NOTES/Optimisation.md",
+<<<<<<< HEAD
+=======
+    "10 - NOTES/Convexité.md",
+    "10 - NOTES/Dérivée.md",
+    "10 - NOTES/SSH.md",
+    "10 - NOTES/Vecteur gradient.md",
+    "10 - NOTES/Matrice hessienne.md",
+>>>>>>> c2e8f9064abf1b7407a061426187d372c2b908e4
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",
