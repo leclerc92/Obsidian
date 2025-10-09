@@ -7,5 +7,7 @@
   "obsidian-latex-suite",
   "obsidian-git",
   "daily-random-note",
-  "tag-wrangler"
+  "tag-wrangler",
+  "simple-anki-sync",
+  "obsidian-to-anki-plugin"
 ]

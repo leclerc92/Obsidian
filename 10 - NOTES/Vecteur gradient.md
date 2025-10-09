@@ -232,3 +232,16 @@ f(x) = log(g(x))
 🎯 **Application pratique :** En optimisation, on va dans la direction **opposée** au gradient pour minimiser (descente de gradient)
 
 ⚡ **Vitesse :** La norme ||∇f|| indique à quelle vitesse la fonction change dans la direction optimale
+
+## FLASHCARD
+TARGET DECK
+Mathematics
+
+START
+Basic
+This is a test 23444.
+Back: $\frac{3}{4}$
+TEST DE CONTINUITE SUR LIGNE 
+<!--ID: 1759786136184-->
+END
+

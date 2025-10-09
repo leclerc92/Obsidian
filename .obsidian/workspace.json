@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c3227f253c7908cd",
+        "id": "b36831297fd0bd47",
         "type": "tabs",
         "children": [
           {
-            "id": "35788ac98074b205",
+            "id": "6c3eec4e1f775ed6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Corrélation de pearson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Corrélation de pearson"
-            }
-          },
-          {
-            "id": "ec6f8963709bcc33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Test de corrélation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Test de corrélation"
-            }
-          },
-          {
-            "id": "76014767fba29752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Corrélation de spearman.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Corrélation de spearman"
-            }
-          },
-          {
-            "id": "8b774d203e4cf255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Corrélation de pearson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Corrélation de pearson"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 255.5
   },
   "right": {
     "id": "6ce0d756c2999170",
@@ -198,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - INBOX/Corrélation de spearman.md",
+                "file": "10 - NOTES/R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +121,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Corrélation de spearman"
+              "title": "Rétrolien pour R"
             }
           },
           {
@@ -217,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - INBOX/Corrélation de spearman.md",
+                "file": "10 - NOTES/R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Corrélation de spearman"
+              "title": "Liens sortants de R"
             }
           },
           {
@@ -262,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Corrélation de spearman.md",
+                "file": "99 - MODELS/04 - flashcard.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,19 +198,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9602645007922297,
+                  "scale": 0.24687957225463364,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Corrélation de spearman"
+              "title": "Graphique de 04 - flashcard"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,10 +228,21 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "76014767fba29752",
+  "active": "6c3eec4e1f775ed6",
   "lastOpenFiles": [
-    "00 - INBOX/Corrélation de pearson.md",
+    "10 - NOTES/Markdown.md",
+    "00 - INBOX/test.md",
+    "99 - MODELS/04 - flashcard.md",
+    "10 - NOTES/Loi Normale.md",
+    "10 - NOTES/Vecteur gradient.md",
+    "10 - NOTES/WeakMap.md",
+    "10 - NOTES/Docker.md",
+    "test anki.md",
+    "10 - NOTES/R.md",
+    "10 - NOTES/MCD 1.md",
+    "10 - NOTES/tests structurels ou boite blanche.md",
     "00 - INBOX/Corrélation de spearman.md",
+    "00 - INBOX/Corrélation de pearson.md",
     "00 - INBOX/Test de corrélation.md",
     "00 - INBOX/covariance.md",
     "00 - INBOX/anki.md",
@@ -327,21 +252,10 @@
     "10 - NOTES/LATEX SUITE.md",
     "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "00 - INBOX/ec.md",
-    "10 - NOTES/Loi Normale.md",
-    "10 - NOTES/R.md",
     "10 - NOTES/Matrice définie positive.md",
-    "00 - INBOX/test anki.md",
-    "10 - NOTES/Docker.md",
     "10 - NOTES/matrice.md",
     "98 - RESSOURCES/prétérit progressif.md",
     "10 - NOTES/Optimisation.md",
-    "10 - NOTES/Convexité.md",
-    "10 - NOTES/Dérivée.md",
-    "10 - NOTES/SSH.md",
-    "10 - NOTES/Vecteur gradient.md",
-    "10 - NOTES/Matrice hessienne.md",
-    "00 - INBOX/VECTEUR.md",
-    "10 - NOTES/determinant.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",
