@@ -48,7 +48,10 @@ Mes données sont :
 
 ### Conditions d'application
 
-✅ Variables **quantitatives continues** ✅ Relation **linéaire** entre X et Y ✅ Distribution **bivariée normale** (ou n ≥ 30) ✅ Absence de **valeurs extrêmes**
+✅ Variables **quantitatives continues** 
+✅ Relation **linéaire** entre X et Y 
+✅ Distribution **bivariée normale** (ou n ≥ 30) 
+✅ Absence de **valeurs extrêmes**
 
 ### Méthode 1 : Via statistique t (H₀: ρ = 0)
 
@@ -299,13 +302,13 @@ Relation linéaire parfaite : Y = 2X + 3
 
 ## Lien avec d'autres concepts
 
-### Avec [[Covariance]]
+### Avec [[covariance]]
 
 $$r = \frac{Cov(X,Y)}{\sigma_X \sigma_Y}$$
 
 Le test de Pearson teste si cette covariance standardisée est significativement différente de 0.
 
-### Avec [[Intervalles de Confiance]]
+### Avec [[Intervalles de confiance]]
 
 Après un test significatif, construire un IC pour quantifier la force de la relation :
 

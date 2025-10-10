@@ -6,6 +6,7 @@
     "CONNEXIONS": "multitext",
     "date": "date",
     "MOC": "text",
-    "REFERENCES": "text"
+    "REFERENCES": "text",
+    "Liens": "text"
   }
 }

@@ -12,11 +12,7 @@
       "commandID": "open-random-note-from-New Random Instance"
     }
   ],
-<<<<<<< HEAD
-  "nextRandomNotesDay": "10/9/2025",
-=======
-  "nextRandomNotesDay": "9/9/2025",
->>>>>>> c2e8f9064abf1b7407a061426187d372c2b908e4
+  "nextRandomNotesDay": "11/9/2025",
   "timeToResetDailyRandomNotes": [
     0,
     0
