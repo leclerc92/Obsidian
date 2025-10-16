@@ -1,5 +1,5 @@
 ---
-MOC: "[[PROGRAMMATION]]"
+MOC:
 tags:
   - prog/bd
 ---

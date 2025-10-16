@@ -1,7 +1,7 @@
 ---
 tags:
   - prog/r
-MOC: "[[PROGRAMMATION]]"
+MOC: "[[LANGAGES DE PROGRAMMATION]]"
 ---
 
 

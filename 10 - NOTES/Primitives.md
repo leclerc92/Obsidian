@@ -1,7 +1,6 @@
 ---
 tags:
-  - maths/analyse
-MOC: "[[MATHS]]"
+MOC: "[[ANALYSE]]"
 ---
 
 

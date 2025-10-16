@@ -1,5 +1,5 @@
 ---
-MOC: "[[PROGRAMMATION]]"
+MOC: "[[BASE DE DONNEES]]"
 tags:
   - prog/bd
 ---

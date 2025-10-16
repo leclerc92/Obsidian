@@ -1,5 +1,5 @@
 ---
-MOC: "[[MATHS]]"
+MOC: "[[02 - SOUSDOMAINE/maths/OPTIMISATION|OPTIMISATION]]"
 tags:
 ---
 

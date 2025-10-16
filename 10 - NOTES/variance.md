@@ -1,8 +1,8 @@
 ---
 tags:
+  - maths/stats
+MOC:
 ---
-
-
 ---
 ***Références :***
 

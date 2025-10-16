@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#MOC  ",
+      "color": {
+        "a": 1,
+        "rgb": 6055126
+      }
+    },
+    {
+      "query": "tag:#sousmoc  ",
+      "color": {
+        "a": 1,
+        "rgb": 7788124
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.5199951171875,
-  "lineSizeMultiplier": 1.5582763671875,
+  "nodeSizeMultiplier": 1.99432373046875,
+  "lineSizeMultiplier": 2.06630045572917,
   "collapse-forces": false,
-  "centerStrength": 0.543904622395833,
-  "repelStrength": 13.60595703125,
+  "centerStrength": 0.700887044270833,
+  "repelStrength": 16.7057291666667,
   "linkStrength": 1,
-  "linkDistance": 67,
-  "scale": 0.909293585503712,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.5477596704871972,
+  "close": false
 }

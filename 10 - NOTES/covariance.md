@@ -1,7 +1,6 @@
 ---
-MOC: "[[MATHS]]"
+MOC:
 tags:
-  - maths/stats
 ---
 ---
 ***Références :***

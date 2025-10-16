@@ -1,7 +1,6 @@
 ---
 tags:
-  - maths/algebre
-MOC: "[[MATHS]]"
+MOC: "[[ALGEBRE]]"
 ---
 ---
 ***Références :***

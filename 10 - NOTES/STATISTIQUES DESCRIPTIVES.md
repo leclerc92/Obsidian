@@ -1,7 +1,6 @@
 ---
-MOC: "[[MATHS]]"
+MOC: "[[STATISTIQUES]]"
 tags:
-  - maths/stats
 ---
 
 
@@ -14,108 +13,70 @@ tags:
 
 La statistique descriptive permet de **résumer, organiser et présenter** des données pour en faciliter la compréhension.
 
-## Types de Variables
+## I. Fondations et Types de Variables
 
-### Variables Quantitatives
+- **Définition** : La statistique descriptive permet de **résumer, organiser et présenter** des données pour en faciliter la compréhension.
+    
+- **Types de Variables** : (Variables Quantitatives et Qualitatives)
+    
 
-- **Discrètes** : valeurs dénombrables (nombre d'enfants, scores)
-- **Continues** : valeurs mesurables (taille, poids, température)
+---
 
-### Variables Qualitatives
+## II. Mesures Univariées (Une seule variable)
 
-- **Nominales** : catégories sans ordre (couleur, sexe)
-- **Ordinales** : catégories avec ordre (niveau d'études, satisfaction)
+### 1. Mesures de Tendance Centrale (Position)
 
-## Mesures de Tendance Centrale
+- Moyenne arithmétique ($\bar{x}$)
+    
+- Médiane ($M_e$)
+    
+- Mode ($M_o$)
+    
 
-### Moyenne arithmétique (x̄)
+### 2. Mesures de Dispersion (Variabilité)
 
-- **Formule** : x̄ = Σxi / n
-- Sensible aux valeurs extrêmes
+Ces notions quantifient la propagation des données :
 
-### Médiane (Me)
+- Étendue ($R$)
+    
+- **[[variance]]** ($s^2$) : Mesure l'écart moyen au carré. _Formule essentielle._
+    
+- **[[écart type]]** ($s$) : $\sqrt{s^2}$. Même unité que les données originales.
+    
+- Coefficient de variation ($CV$)
+    
 
-- Valeur qui partage les données en deux parties égales
-- Résistante aux valeurs aberrantes
+### 3. Mesures de Position et de Forme
 
-### Mode (Mo)
+- Quartiles, Déciles et Percentiles.
+    
+- Mesures de Forme (Asymétrie et Aplatissement).
+    
 
-- Valeur la plus fréquente
-- Peut être multiple ou inexistant
+---
 
-## Mesures de Dispersion
+## III. Mesures Bivariées (Relation entre deux variables)
 
-### Étendue (R)
+Cette section est dédiée à la description des relations entre deux variables dans l'échantillon.
 
-- R = max - min
-- Simple mais peu robuste
+### 1. Mesures d'Association Linéaire (Quantitatives)
 
-### Variance (s²)
+- **[[covariance]]** : Mesure la direction de la relation linéaire (positive ou négative).
+    
+- **[[Corrélation de pearson]]** : Normalisation de la [[covariance]] ; mesure la **force** et la **direction** de la relation **linéaire** (entre -1 et +1).
+    
 
-- **Formule** : s² = Σ(xi - x̄)² / (n-1)
-- Mesure l'écart moyen au carré
+### 2. Mesures de Relation d'Ordre (Non-Paramétriques)
 
-### Écart-type (s)
+- **[[Corrélation de spearman]]** : Mesure la relation basée sur les **rangs** des données.
+    
 
-- s = √s²
-- Même unité que les données originales
+_(Note : Bien que le [[Test de corrélation]] soit lié à la Corrélation, il est logiquement un concept d'[[STATISTIQUES INFERENTIELLES]] car il teste si la corrélation est significative dans la population.)_
 
-### Coefficient de variation (CV)
+---
 
-- CV = (s / x̄) × 100
-- Compare la variabilité relative
+## IV. Représentations Graphiques
 
-## Mesures de Position
-
-### Quartiles
-
-- **Q1** : 25% des données sont inférieures
-- **Q2** : médiane (50%)
-- **Q3** : 75% des données sont inférieures
-
-### Déciles et Percentiles
-
-- **Déciles** : divisent en 10 parties égales
-- **Percentiles** : divisent en 100 parties égales
-
-## Représentations Graphiques
-
-### Variables Quantitatives
-
-- **Histogramme** : distribution des fréquences
-- **Boîte à moustaches** : quartiles et valeurs aberrantes
-- **Nuage de points** : relation entre deux variables
-
-### Variables Qualitatives
-
-- **Diagramme en barres** : fréquences par catégorie
-- **Diagramme circulaire** : proportions
-
-## Mesures de Forme
-
-### Asymétrie (Skewness)
-
-- **Symétrique** : moyenne ≈ médiane ≈ mode
-- **Asymétrie positive** : queue à droite
-- **Asymétrie négative** : queue à gauche
-
-### Aplatissement (Kurtosis)
-
-- Compare la forme à une distribution normale
-
-## Points Clés à Retenir
-
-1. **Toujours** examiner la nature des variables avant de choisir les mesures
-2. La **moyenne** est sensible aux extrêmes, la **médiane** est plus robuste
-3. L'**écart-type** doit toujours être interprété avec la moyenne
-4. Les **graphiques** révèlent souvent plus que les chiffres seuls
-5. Attention aux **valeurs aberrantes** qui peuvent fausser l'analyse
-
-## Formules Essentielles
-
-|Mesure|Formule|
-|---|---|
-|Moyenne|x̄ = Σxi / n|
-|Variance|s² = Σ(xi - x̄)² / (n-1)|
-|Écart-type|s = √s²|
-|CV|(s / x̄) × 100|
+- **Pour Variables Quantitatives :** Histogramme, Boîte à moustaches, Nuage de points.
+    
+- **Pour Variables Qualitatives :** Diagramme en barres, Diagramme circulaire.

@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc60df556a3f6f6c",
+        "id": "16c43cdcf250b97a",
         "type": "tabs",
         "children": [
           {
-            "id": "c4158393cdb2b6c0",
+            "id": "49484a34f0baf218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - NOTES/PostgreSQL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL"
-            }
-          },
-          {
-            "id": "10349ef8de49cf26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - NOTES/SQL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "0e746e67607dc710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - NOTES/SGBDR.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SGBDR"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -237,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/PostgreSQL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,12 +197,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0170378966056106,
+                  "scale": 0.8589458344196769,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de PostgreSQL"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -289,34 +226,38 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b0385496cd3bbadf",
+  "active": "49484a34f0baf218",
   "lastOpenFiles": [
-    "10 - NOTES/SQL.md",
-    "10 - NOTES/MLD.md",
-    "10 - NOTES/MCD.md",
-    "10 - NOTES/MCD 1.md",
-    "10 - NOTES/PostgreSQL.md",
-    "10 - NOTES/SGBDR.md",
-    "10 - NOTES/01 - DOMAINES/PROGRAMMATION.md",
+    "10 - NOTES/Convexité.md",
+    "02 - SOUSDOMAINE/programmation/TESTS LOGICIELS.md",
+    "02 - SOUSDOMAINE/programmation/LANGAGES DE PROGRAMMATION.md",
+    "02 - SOUSDOMAINE/programmation/BASE DE DONNEES.md",
+    "02 - SOUSDOMAINE/maths/STATISTIQUES.md",
+    "02 - SOUSDOMAINE/maths/OPTIMISATION.md",
+    "02 - SOUSDOMAINE/maths/ANALYSE.md",
+    "02 - SOUSDOMAINE/maths/ALGEBRE.md",
+    "02 - SOUSDOMAINE/programmation/NOTIONS DE PROGRAMMATION.md",
+    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
+    "10 - NOTES/determinant.md",
+    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "10 - NOTES/Test de corrélation.md",
-    "10 - NOTES/variance.md",
-    "00 - INBOX/racine carrée.md",
-    "10 - NOTES/écart type.md",
-    "10 - NOTES/SEMAPHORE.md",
-    "10 - NOTES/Astuces javascript.md",
-    "10 - NOTES/tests all single.md",
-    "10 - NOTES/test combinatoire.md",
-    "10 - NOTES/Tests fonctionnels ou boite noire.md",
-    "10 - NOTES/matrice.md",
-    "10 - NOTES/Git.md",
-    "10 - NOTES/Corrélation de pearson.md",
-    "10 - NOTES/HTML.md",
     "10 - NOTES/covariance.md",
-    "10 - NOTES/Loi Normale.md",
-    "10 - NOTES/Corrélation de spearman.md",
-    "10 - NOTES/R.md",
-    "99 - MODELS/04 - flashcard.md",
-    "10 - NOTES/Vecteur gradient.md",
+    "10 - NOTES/Corrélation de pearson.md",
+    "10 - NOTES/écart type.md",
+    "10 - NOTES/Intervalles de confiance.md",
+    "10 - NOTES/variance.md",
+    "10 - NOTES/Optimisation.md",
+    "01 - DOMAINES/MATHS.md",
+    "10 - NOTES/Primitives.md",
+    "10 - NOTES/Dérivée.md",
+    "10 - NOTES/matrice.md",
+    "02 - SOUSDOMAINE/maths",
+    "02 - SOUSDOMAINE/programmation",
+    "01 - DOMAINES/PROGRAMMATION.md",
+    "10 - NOTES/WeakMap.md",
+    "10 - NOTES/SEMAPHORE.md",
+    "02 - SOUSDOMAINE",
+    "Sans titre",
     "NOTE.canvas",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
@@ -329,13 +270,9 @@
     "98 - RESSOURCES/Ink/Writing",
     "98 - RESSOURCES/Ink",
     "98 - RESSOURCES/98 - RESSOURCES/Ink/Writing/2025.9.28 - 9.43am.drawing",
-    "98 - RESSOURCES/98 - RESSOURCES/Ink/Writing",
-    "98 - RESSOURCES/98 - RESSOURCES/Ink",
-    "98 - RESSOURCES/98 - RESSOURCES",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37.png",
     "98 - RESSOURCES/Pasted image 20250927113757.png",
     "98 - RESSOURCES/Pasted image 20250927113421.png",
-    "99 - MODELS",
     "98 - RESSOURCES/graphe.png",
     "98 - RESSOURCES/code.png",
     "inbox/Sans titre.canvas"

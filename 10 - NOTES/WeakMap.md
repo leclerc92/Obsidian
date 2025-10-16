@@ -1,5 +1,5 @@
 ---
-MOC: "[[PROGRAMMATION]]"
+MOC: "[[NOTIONS DE PROGRAMMATION]]"
 tags:
   - prog/javascript
 ---

@@ -1,6 +1,7 @@
 ---
-MOC:
+MOC: "[[BASE"
 tags:
+  - prog/bd
 ---
 ---
 ***Références :***

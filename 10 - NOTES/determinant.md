@@ -107,4 +107,4 @@ C’est utilisé dans des millions de lignes de code de moteurs de jeux, bibliot
 > Le determinant d'une [[matrice]] peut etre donné principalement par les méthodes suivantes : 
 > - **[[formule de Leibniz]]**
 > - **[[Développement par Cofacteurs (Méthode de Laplace)]]**
-> - **[[Élimination de Gauss]]**
+> - **Élimination de Gauss**

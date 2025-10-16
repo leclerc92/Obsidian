@@ -1,5 +1,5 @@
 ---
-MOC: "[[PROGRAMMATION]]"
+MOC: "[[TESTS LOGICIELS]]"
 tags:
   - prog/java
   - prog/test

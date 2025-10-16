@@ -1,5 +1,5 @@
 ---
-MOC: "[[PROGRAMMATION]]"
+MOC: "[[LANGAGES DE PROGRAMMATION]]"
 tags:
   - prog/html
 ---

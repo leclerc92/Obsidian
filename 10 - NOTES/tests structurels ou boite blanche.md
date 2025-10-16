@@ -1,7 +1,7 @@
 ---
 tags:
   - prog/test
-MOC: "[[PROGRAMMATION]]"
+MOC: "[[TESTS LOGICIELS]]"
 ---
 ---
 ***Références :***
