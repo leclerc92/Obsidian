@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32eefa0fa813184e",
+        "id": "2cadd5c27b0dd53d",
         "type": "tabs",
         "children": [
           {
-            "id": "a3299c7437157233",
+            "id": "b3846073ba616d6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - INBOX/Test de corrélation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test de corrélation"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -63,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cova",
-                "matchingCase": false,
+                "query": "tag:#prog/bd",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -84,7 +70,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1406a39225bf1c21",
@@ -98,8 +85,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "bd"
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
@@ -189,7 +176,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - INBOX/Test de corrélation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Test de corrélation"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -241,35 +227,35 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "a3299c7437157233",
+  "active": "b3846073ba616d6a",
   "lastOpenFiles": [
-    "00 - INBOX/Analyse de données.md",
-    "00 - INBOX/Test de corrélation.md",
-    "10 - NOTES/Intervalles de confiance.md",
-    "10 - NOTES/Corrélation de spearman.md",
+    "10 - NOTES/Astuces javascript.md",
+    "10 - NOTES/tests all single.md",
+    "10 - NOTES/test combinatoire.md",
+    "10 - NOTES/Tests fonctionnels ou boite noire.md",
+    "10 - NOTES/MLD.md",
+    "10 - NOTES/matrice.md",
+    "10 - NOTES/MCD.md",
+    "10 - NOTES/Git.md",
     "10 - NOTES/Corrélation de pearson.md",
+    "00 - INBOX/variance.md",
+    "10 - NOTES/HTML.md",
+    "00 - INBOX/écarts-type.md",
     "10 - NOTES/covariance.md",
+    "00 - INBOX/Sans titre.md",
+    "10 - NOTES/Loi Normale.md",
+    "10 - NOTES/Corrélation de spearman.md",
+    "10 - NOTES/R.md",
+    "00 - INBOX/Test de corrélation.md",
+    "99 - MODELS/04 - flashcard.md",
+    "10 - NOTES/Vecteur gradient.md",
+    "00 - INBOX/Analyse de données.md",
+    "10 - NOTES/Intervalles de confiance.md",
     "99 - MODELS/01 - NOUVELLE NOTE MOC.md",
     "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
     "00 - INBOX/note mere.md",
-    "10 - NOTES/Tests fonctionnels ou boite noire.md",
     "NOTE.canvas",
-    "10 - NOTES/Loi Normale.md",
     "10 - NOTES/Markdown.md",
-    "00 - INBOX/test.md",
-    "99 - MODELS/04 - flashcard.md",
-    "10 - NOTES/Vecteur gradient.md",
-    "10 - NOTES/WeakMap.md",
-    "10 - NOTES/Docker.md",
-    "test anki.md",
-    "10 - NOTES/R.md",
-    "10 - NOTES/MCD 1.md",
-    "10 - NOTES/tests structurels ou boite blanche.md",
-    "00 - INBOX/anki.md",
-    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
-    "10 - NOTES/LATEX SUITE.md",
-    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
-    "00 - INBOX/ec.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",

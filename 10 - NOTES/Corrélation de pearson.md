@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Le coefficient de corrélation linéaire simple; dit de Pearson est une normalisation de la [[covariance]] par le produit des écarts-type des variables : 
+Le coefficient de corrélation linéaire simple; dit de Pearson est une normalisation de la [[covariance]] par le produit des [[écarts-type]] des variables : 
 
 $r =  \frac{Cov(X,Y)}{\sigma y.\sigma x}$
 

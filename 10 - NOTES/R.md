@@ -22,4 +22,7 @@ MOC: "[[PROGRAMMATION]]"
 
 - setwd("path") -> definis l'espace de travail du projet 
 - getwd() -> affiche l'espace de travail en cours
+
+## fonctions maths 
+- mean(x) -> moyenne 
 - 

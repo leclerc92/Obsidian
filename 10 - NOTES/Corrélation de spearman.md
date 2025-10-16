@@ -53,7 +53,7 @@ La corrélation de Spearman mesure **l'intensité de la relation monotone**entr
 
 Spearman = Pearson appliqué aux rangs :
 
-$ρs=\frac{∑(RXi−\bar{RX})(RYi−\bar{RY})}{∑(RXi−\bar{RX})^2∑(RYi−\bar{RY})^2}$
+$$ρs=\frac{∑(RXi−\bar{RX})(RYi−\bar{RY})}{∑(RXi−\bar{RX})^2∑(RYi−\bar{RY})^2}$$
 
 
 où :
@@ -63,7 +63,7 @@ où :
 
 ### Formule simplifiée (sans ex-aequo)
 
-$ρs=1-\frac{6∑di^2}{n(n^2−1)}$
+$$ρs=1-\frac{6∑di^2}{n(n^2−1)}$$
 
 où :
 
