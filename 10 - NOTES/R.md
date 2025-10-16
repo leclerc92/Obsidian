@@ -22,4 +22,3 @@ MOC: "[[LANGAGES DE PROGRAMMATION]]"
 
 ## fonctions maths 
 - mean(x) -> moyenne 
-- 
