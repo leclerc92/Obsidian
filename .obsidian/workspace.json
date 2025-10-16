@@ -11,10 +11,24 @@
             "id": "b3846073ba616d6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - INBOX/écarts-type.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "écarts-type"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1406a39225bf1c21",
@@ -176,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00 - INBOX/écarts-type.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de écarts-type"
             }
           }
         ]
@@ -229,6 +243,10 @@
   },
   "active": "b3846073ba616d6a",
   "lastOpenFiles": [
+    "00 - INBOX/Sans titre.md",
+    "00 - INBOX/écarts-type.md",
+    "00 - INBOX/Test de corrélation.md",
+    "10 - NOTES/SEMAPHORE.md",
     "10 - NOTES/Astuces javascript.md",
     "10 - NOTES/tests all single.md",
     "10 - NOTES/test combinatoire.md",
@@ -240,13 +258,10 @@
     "10 - NOTES/Corrélation de pearson.md",
     "00 - INBOX/variance.md",
     "10 - NOTES/HTML.md",
-    "00 - INBOX/écarts-type.md",
     "10 - NOTES/covariance.md",
-    "00 - INBOX/Sans titre.md",
     "10 - NOTES/Loi Normale.md",
     "10 - NOTES/Corrélation de spearman.md",
     "10 - NOTES/R.md",
-    "00 - INBOX/Test de corrélation.md",
     "99 - MODELS/04 - flashcard.md",
     "10 - NOTES/Vecteur gradient.md",
     "00 - INBOX/Analyse de données.md",
@@ -255,7 +270,6 @@
     "99 - MODELS/02 - NOUVELLE NOTE SIMPLE.md",
     "00 - INBOX/note mere.md",
     "NOTE.canvas",
-    "10 - NOTES/Markdown.md",
     "98 - RESSOURCES/Pasted image 20251001115244.png",
     "98 - RESSOURCES/Capture d’écran 2025-09-27 à 11.48.37 1.png",
     "98 - RESSOURCES/Pasted image 20250927113421 1.png",
