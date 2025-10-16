@@ -11,10 +11,24 @@
             "id": "49484a34f0baf218",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "STATISTIQUES INFERENTIELLES"
             }
           }
         ]
@@ -175,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de STATISTIQUES INFERENTIELLES"
             }
           }
         ]
