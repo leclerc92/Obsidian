@@ -8,8 +8,8 @@ tags:
 
 ---
 
-le MLD permet de valider la conformité du [[MCD 1]].
-Il premet de détaillé l'implementation pour un model spécifique de base de donnée relationnelle.
+le MLD permet de valider la conformité du [[MCD]].
+Il premet de détaillé l'implementation pour un model spécifique de [[SGBDR|base de donnée relationnelle.]]
 Il peut est sous forme de diagramme complémentaire au MCD ou sous forme syntaxique.
 
 ## traduction du MCD

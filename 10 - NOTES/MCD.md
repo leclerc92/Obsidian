@@ -10,7 +10,7 @@ tags:
 ## Définition
 
 Le **MCD** est le *modèle conceptuel de données*.
-C'est un diagramme qui permet de donner une representation shématique d'une base de donnée relationnelle. 
+C'est un diagramme qui permet de donner une representation shématique d'une [[SGBDR|base de donnée relationnelle]]. 
 Les MCD font parti de la methode **MERISE**.
 
 ## Syntaxe 
