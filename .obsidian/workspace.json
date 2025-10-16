@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
+                "file": "10 - NOTES/R.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "STATISTIQUES INFERENTIELLES"
+              "title": "R"
             }
           }
         ]
@@ -99,7 +99,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "bd"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
+                "file": "10 - NOTES/R.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de STATISTIQUES INFERENTIELLES"
+              "title": "Graphique de R"
             }
           }
         ]
@@ -243,6 +243,7 @@
   },
   "active": "49484a34f0baf218",
   "lastOpenFiles": [
+    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
     "10 - NOTES/Convexité.md",
     "02 - SOUSDOMAINE/programmation/TESTS LOGICIELS.md",
     "02 - SOUSDOMAINE/programmation/LANGAGES DE PROGRAMMATION.md",
@@ -252,7 +253,6 @@
     "02 - SOUSDOMAINE/maths/ANALYSE.md",
     "02 - SOUSDOMAINE/maths/ALGEBRE.md",
     "02 - SOUSDOMAINE/programmation/NOTIONS DE PROGRAMMATION.md",
-    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
     "10 - NOTES/determinant.md",
     "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "10 - NOTES/Test de corrélation.md",

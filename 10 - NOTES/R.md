@@ -4,15 +4,12 @@ tags:
 MOC: "[[LANGAGES DE PROGRAMMATION]]"
 ---
 
-
 ---
 ***Références :***
 - https://www.r-projet.org
 ------
 
-
 *interface graphique - IDE* : **R Studio**
-
 ## syntaxe 
 
 - Ajouter un commentaire -> #
