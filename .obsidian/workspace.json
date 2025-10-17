@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/Tests fonctionnels ou boite noire.md",
+                "file": "10 - NOTES/problèmes d'optimisation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tests fonctionnels ou boite noire"
+              "title": "problèmes d'optimisation"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MLD",
+                "query": "linéaire",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/Tests fonctionnels ou boite noire.md",
+                "file": "10 - NOTES/problèmes d'optimisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,12 +212,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3599904898716118,
+                  "scale": 1.0273996590637424,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Tests fonctionnels ou boite noire"
+              "title": "Graphique de problèmes d'optimisation"
             }
           }
         ]
@@ -243,6 +243,12 @@
   },
   "active": "c1f4b8ea0362525b",
   "lastOpenFiles": [
+    "10 - NOTES/Tests fonctionnels ou boite noire.md",
+    "00 - INBOX/v.md",
+    "10 - NOTES/écart type.md",
+    "10 - NOTES/Corrélation de pearson.md",
+    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
+    "10 - NOTES/variance.md",
     "02 - SOUSDOMAINE/programmation/TESTS LOGICIELS.md",
     "10 - NOTES/tests structurels ou boite blanche.md",
     "10 - NOTES/Graphe de flot de controle.md",
@@ -261,14 +267,8 @@
     "02 - SOUSDOMAINE/maths/ALGEBRE.md",
     "02 - SOUSDOMAINE/programmation/NOTIONS DE PROGRAMMATION.md",
     "10 - NOTES/determinant.md",
-    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "10 - NOTES/Test de corrélation.md",
     "10 - NOTES/covariance.md",
-    "10 - NOTES/Corrélation de pearson.md",
-    "10 - NOTES/écart type.md",
-    "10 - NOTES/Intervalles de confiance.md",
-    "10 - NOTES/variance.md",
-    "10 - NOTES/Optimisation.md",
     "02 - SOUSDOMAINE/maths",
     "02 - SOUSDOMAINE/programmation",
     "02 - SOUSDOMAINE",
