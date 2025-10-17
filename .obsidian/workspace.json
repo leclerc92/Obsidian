@@ -11,10 +11,24 @@
             "id": "5001f0472523504e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 - NOTES/Loi Normale.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Loi Normale"
             }
           }
         ]
@@ -175,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "10 - NOTES/Loi Normale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de Loi Normale"
             }
           }
         ]

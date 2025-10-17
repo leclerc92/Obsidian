@@ -3,185 +3,140 @@ MOC:
 tags:
   - maths/stats
 ---
+## C'est quoi concrètement ?
 
+La loi normale est le **modèle de distribution la plus courante** dans la nature et les sciences. Elle décrit la majorité des phénomènes naturels : la taille des gens, les notes aux examens, les erreurs de mesure, etc.
 
----
-***Références :***
+**Représentation** : une courbe en forme de cloche, symétrique.
 
----
+```
+        Plus fréquent
+             ▲
+             │     ╱╲
+             │    ╱  ╲
+             │   ╱    ╲
+             │  ╱      ╲___
+             │_╱____________
+                   Valeurs
+            μ-3σ   μ   μ+3σ
+```
 
-## Définition
+## Les 2 paramètres qui la définissent
 
-La **loi normale** (ou gaussienne) est une distribution de probabilité continue caractérisée par sa **courbe en forme de cloche**, symétrique autour de sa moyenne.
+### Moyenne (μ) : le centre
+
+- Détermine **où** se situe le pic
+- Les données s'agglomèrent autour de cette valeur
+
+### Écart-type (σ) : la largeur
+l'[[écart type]]  permet les choses suivantes : 
+
+- Détermine **l'étalement** de la courbe
+- σ grand = courbe plate et large
+- σ petit = courbe pointue et étroite
 
 **Notation** : X ~ N(μ, σ²)
 
-- μ = moyenne
-- σ² = variance
-- σ = écart-type
+---
 
-## Caractéristiques Visuelles
+## La règle incontournable : 68-95-99.7
 
-```
-           Fréquence
-               |
-               |     /\
-               |    /  \
-               |   /    \
-               |  /      \
-               | /        \
-               |/          \____
-               |________________
-                      X
-               μ-3σ  μ  μ+3σ
-```
+Cela détermine **combien de données se situent dans chaque zone** :
 
-### Propriétés de la Courbe
+|Zone|Pourcentage|Signification|
+|---|---|---|
+|μ ± 1σ|68%|Les **deux tiers** des données|
+|μ ± 2σ|95%|Presque **tout le monde**|
+|μ ± 3σ|99.7%|Quasi-universel|
 
-- **Symétrique** autour de la moyenne μ
-- **Unimodale** : un seul pic au centre
-- **Asymptotique** : les queues s'approchent de 0 sans jamais l'atteindre
-- **Aire totale** sous la courbe = 1
+### Exemple concret : les QI
 
-## Paramètres
-
-### Moyenne (μ)
-
-- **Position** du centre de la courbe
-- **Médiane** = **Mode** = **Moyenne** = μ
-
-### Écart-type (σ)
-
-- **Largeur** de la courbe
-- Plus σ est grand → courbe plus étalée
-- Plus σ est petit → courbe plus pointue
-
-## Règle Empirique (68-95-99.7)
-
-Dans une distribution normale :
-
-|Intervalle|Pourcentage des données|
-|---|---|
-|μ ± 1σ|**68%**|
-|μ ± 2σ|**95%**|
-|μ ± 3σ|**99.7%**|
-
-### Exemple Pratique
-
-**QI** : μ = 100, σ = 15
+**QI moyen** = 100, **écart-type** = 15
 
 - 68% des gens ont un QI entre **85 et 115**
 - 95% des gens ont un QI entre **70 et 130**
 - 99.7% des gens ont un QI entre **55 et 145**
 
-## Loi Normale Centrée Réduite
+→ Quelqu'un avec un QI de 145+ est dans les **0.15%** les plus brillants
 
-**Transformation** : Z = (X - μ) / σ
+---
 
-**Propriétés** :
+## Comment l'utiliser ?
 
-- Z ~ N(0, 1)
-- Moyenne = 0
-- Écart-type = 1
-- Permet de **standardiser** toute loi normale
+### 1️⃣ Vérifier si vos données suivent une loi normale
 
-## Table de la Loi Normale
+Avant de faire des calculs, demandez-vous :
 
-|Valeur Z|P(Z ≤ z)|Interprétation|
+- ✅ L'histogramme a-t-il une forme de cloche ?
+- ✅ Moyenne ≈ Médiane ≈ Mode ?
+- ✅ Les données sont-elles symétriques ?
+
+**Cas d'usage** : contrôle qualité, tests statistiques, prédictions
+
+### 2️⃣ Calculer une probabilité
+
+**Question** : "Quelle proportion de vis sont défectueuses ?"
+
+1. Standardiser votre valeur : $Z = (X - μ) / σ$
+2. Utiliser la table de la loi normale
+3. Lire le résultat
+
+**Exemple** : vis de 8.3mm, μ=8mm, σ=0.1mm
+
+- $Z = (8.3 - 8) / 0.1 = 3$
+- Probabilité d'être aussi extrême : **< 0.3%** → vis défectueuse
+
+### 3️⃣ Trouver un seuil
+
+**Question** : "À partir de quel score on juge ça 'anormal' ?"
+
+- Fixer un niveau de confiance (ex: 95%)
+- Utiliser la table inverse
+- Calculer : $x = μ + Z × σ$
+
+**Exemple médical** : Un résultat est "anormal" s'il est au-delà de μ ± 2σ (cas = 5% des gens)
+
+---
+
+## La Table Rapide
+
+Vous n'avez pas besoin de la mémoriser, mais voici les valeurs clés :
+
+|Z|P(Z ≤ z)|Interprétation|
 |---|---|---|
-|-3|0.0013|0.13% à gauche|
-|-2|0.0228|2.28% à gauche|
-|-1|0.1587|15.87% à gauche|
-|0|0.5000|50% à gauche|
-|1|0.8413|84.13% à gauche|
-|2|0.9772|97.72% à gauche|
-|3|0.9987|99.87% à gauche|
+|-2|2.28%|Très bas|
+|-1|15.87%|Bas|
+|0|50%|La moyenne|
+|+1|84.13%|Haut|
+|+2|97.72%|Très haut|
+|+3|99.87%|Extrême|
 
-## Applications Courantes
+---
 
-### Phénomènes Naturels
+## Cas d'usage réels
 
-- **Taille, poids** des individus
-- **QI, notes** scolaires
-- **Erreurs de mesure**
-- **Temps de réaction**
+### 📊 Contrôle qualité
 
-### En Statistiques
+Vérifier que 95% de la production est conforme (μ ± 2σ)
 
-- **Théorème Central Limite** : moyennes d'échantillons
-- **Tests d'hypothèses** : test Z, test t
-- **Intervalles de confiance**
-- **Contrôle qualité**
+### 🎓 Éducation
 
-## Vérification de la Normalité
+Évaluer les performances : une note est-elle exceptionnelle ?
 
-### Tests Statistiques
+### 🏥 Médecine
 
-- **Shapiro-Wilk** (n ≤ 50)
-- **Kolmogorov-Smirnov**
-- **Jarque-Bera**
+Définir les seuils "normal/anormal" pour les analyses
 
-### Méthodes Graphiques
+### 📈 Business
 
-- **Histogramme** : forme de cloche
-- **Q-Q plot** : points alignés
-- **Boîte à moustaches** : symétrique
+Évaluer les performances commerciales par rapport à la moyenne
 
-### Critères Numériques
+---
 
-- **Asymétrie** ≈ 0 (skewness)
-- **Aplatissement** ≈ 3 (kurtosis)
-- **Moyenne ≈ Médiane ≈ Mode**
+## Checklist d'utilisation
 
-## Calculs Pratiques
-
-### Probabilité P(a < X < b)
-
-1. Standardiser : z₁ = (a-μ)/σ, z₂ = (b-μ)/σ
-2. Utiliser la table : P(z₁ < Z < z₂) = Φ(z₂) - Φ(z₁)
-
-### Quantiles
-
-Pour trouver x tel que P(X ≤ x) = p :
-
-1. Trouver z dans la table tel que Φ(z) = p
-2. Calculer : x = μ + z×σ
-
-## Formules Essentielles
-
-### Fonction de Densité
-
-f(x) = (1/(σ√(2π))) × e^(-½((x-μ)/σ)²)
-
-### Fonction de Répartition
-
-F(x) = P(X ≤ x) = Φ((x-μ)/σ)
-
-### Standardisation
-
-Z = (X - μ) / σ
-
-## Points Clés à Retenir
-
-✅ **La normale n'est qu'un modèle** - vérifier l'adéquation aux données réelles
-
-✅ **68-95-99.7** : règle fondamentale à mémoriser
-
-✅ **Symétrie parfaite** : P(X < μ) = P(X > μ) = 0.5
-
-✅ **Valeurs extrêmes rares** : |z| > 3 représente moins de 0.3% des cas
-
-✅ **Standardisation universelle** : toute normale devient N(0,1)
-
-## Exemples d'Application
-
-### Contrôle Qualité
-
-- Diamètre vis : μ = 8mm, σ = 0.1mm
-- 95% des vis entre 7.8mm et 8.2mm
-- Si diamètre = 8.3mm → défaut (probabilité < 0.3%)
-
-### Seuils de Décision
-
-- Test médical : valeur normale si -2σ < résultat < +2σ
-- Résultat "anormal" si |z| > 2 (probabilité < 5%)
+- [ ] Mes données forment une cloche sur l'histogramme ?
+- [ ] J'ai calculé la moyenne (μ) et l'écart-type (σ) ?
+- [ ] Je dois trouver une probabilité, un seuil, ou valider une hypothèse ?
+- [ ] J'ai standardisé ma valeur en Z-score ?
+- [ ] J'ai vérifié le résultat avec la table ou un outil ?
