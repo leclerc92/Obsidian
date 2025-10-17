@@ -11,9 +11,19 @@
             "id": "49484a34f0baf218",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "e750bb0dcacbd717",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - NOTES/R.md",
+                "file": "10 - NOTES/Markdown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "R"
+              "title": "Markdown"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/R.md",
+                "file": "10 - NOTES/Markdown.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de R"
+              "title": "Graphique de Markdown"
             }
           }
         ]
@@ -241,8 +252,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "49484a34f0baf218",
+  "active": "e750bb0dcacbd717",
   "lastOpenFiles": [
+    "10 - NOTES/R.md",
     "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
     "10 - NOTES/Convexité.md",
     "02 - SOUSDOMAINE/programmation/TESTS LOGICIELS.md",
@@ -270,7 +282,6 @@
     "02 - SOUSDOMAINE/programmation",
     "01 - DOMAINES/PROGRAMMATION.md",
     "10 - NOTES/WeakMap.md",
-    "10 - NOTES/SEMAPHORE.md",
     "02 - SOUSDOMAINE",
     "Sans titre",
     "NOTE.canvas",

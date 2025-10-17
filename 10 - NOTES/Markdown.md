@@ -6,11 +6,6 @@ MOC: "[[PRODUCTIVITE]]"
 ***Références :***
 
 ---
-
-
-
-
-
 ## 📝 Syntaxe de Base
 
 ### Titres
