@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d43e4f3bdc0d9a84",
+        "id": "8d598fc6b84d301c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f4b8ea0362525b",
+            "id": "5001f0472523504e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - NOTES/problèmes d'optimisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "problèmes d'optimisation"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -189,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - NOTES/problèmes d'optimisation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de problèmes d'optimisation"
+              "title": "Vue graphique"
             }
           }
         ]
@@ -241,13 +226,17 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c1f4b8ea0362525b",
+  "active": "5001f0472523504e",
   "lastOpenFiles": [
+    "10 - NOTES/Corrélation de spearman.md",
+    "10 - NOTES/Test de corrélation.md",
+    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
+    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
+    "10 - NOTES/Corrélation de pearson.md",
+    "10 - NOTES/problèmes d'optimisation.md",
     "10 - NOTES/Tests fonctionnels ou boite noire.md",
     "00 - INBOX/v.md",
     "10 - NOTES/écart type.md",
-    "10 - NOTES/Corrélation de pearson.md",
-    "10 - NOTES/STATISTIQUES DESCRIPTIVES.md",
     "10 - NOTES/variance.md",
     "02 - SOUSDOMAINE/programmation/TESTS LOGICIELS.md",
     "10 - NOTES/tests structurels ou boite blanche.md",
@@ -258,7 +247,6 @@
     "10 - NOTES/Développement par Cofacteurs (Méthode de Laplace).md",
     "10 - NOTES/Markdown.md",
     "10 - NOTES/R.md",
-    "10 - NOTES/STATISTIQUES INFERENTIELLES.md",
     "10 - NOTES/Convexité.md",
     "02 - SOUSDOMAINE/programmation/BASE DE DONNEES.md",
     "02 - SOUSDOMAINE/maths/STATISTIQUES.md",
@@ -266,9 +254,6 @@
     "02 - SOUSDOMAINE/maths/ANALYSE.md",
     "02 - SOUSDOMAINE/maths/ALGEBRE.md",
     "02 - SOUSDOMAINE/programmation/NOTIONS DE PROGRAMMATION.md",
-    "10 - NOTES/determinant.md",
-    "10 - NOTES/Test de corrélation.md",
-    "10 - NOTES/covariance.md",
     "02 - SOUSDOMAINE/maths",
     "02 - SOUSDOMAINE/programmation",
     "02 - SOUSDOMAINE",
