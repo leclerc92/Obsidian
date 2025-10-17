@@ -8,16 +8,6 @@ MOC: "[[TESTS LOGICIELS]]"
 
 ---
 
-
-
-
-
-
----
-***Références :***
-
----
-
 ## 📋 Définition
 
 Les **tests structurels** (ou tests en **boîte blanche**) analysent le **code source** pour créer des cas de test basés sur la **structure interne** du programme.
